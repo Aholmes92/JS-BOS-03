@@ -27,23 +27,24 @@ B. Snacks in case you get hungry
 
 ## Schedule
 
-[Google Calendar](https://calendar.google.com/calendar/embed?src=dnQzNzhpM3BocG5zZHVtbzlpNXZvaG82cWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+Tuesday and Thursday
+September 27th - December 8th
 
 ### Overview
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 0 | [Installfest](00-installfest/slides.md) || Lesson 11 | [Debugging and AJAX](11-debugging-and-ajax/readme.md)|
-| Lesson 1 | [JS on the Command Line](01-command-line-JS/readme.md) || Lesson 12 | [Lab Time](12-in-class-lab/readme.md)|
-| Lesson 2 | [Data Types](02-data-types/readme.md) || **Project 2**  | Feedr - Your Personalized Feed Reader |
-| Lesson 3| [Conditionals and Loops](03-conditionals-and-loops/readme.md) || Lesson 13 | [Prototypical Inheritance](13-prototypical-inheritance/readme.md) |
-| Lesson 4 | [Functions](04-functions/readme.md) || Lesson 14 | [Closures and This](14-closures-and-this/readme.md) |
-| Lesson 5 | [Objects](05-objects/readme.md) || Lesson 15 | [Intro to Crud and Firebase](15-intro-to-crud-and-firebase) |
-| Lesson 6 | [**Project 1 Lab**](06-in-class-lab) || Lesson 16 | [Deploying Your App](16-deploying-your-app/readme.md) |
-| Lesson 7 | [Intro to DOM & jQuery](07-intro-to-dom-and-jquery/readme.md)|| Lesson 17 |  [Instructor Student Choice](17-instructor-student-choice/readme.md) |
-| Lesson 8 | [Events and Templating](08-events-and-templating/readme.md) || Lesson 18 |[Lab Time](18-lab-time/readme.md) |
-| Lesson 9 | [MVC and Ajax](09-mvc-and-ajax/readme.md) || **Project 3** | Your Single Page App |
-| Lesson 10| [HTTP and AJAX](10-http-and-ajax/readme.md) | |Lesson 19| Final Project Presentations |
+| Lesson 1 | [Installfest](00-installfest/slides.md) || Lesson 11| [HTTP and AJAX](10-http-and-ajax/readme.md) |
+| Lesson 2 | [Data Types](02-data-types/readme.md) || Lesson 12 | [Debugging and AJAX](11-debugging-and-ajax/readme.md)|
+| Lesson 3 | [Conditionals and Loops](03-conditionals-and-loops/readme.md) || Lesson 13 | [**Project 2 Lab**]()|
+| Lesson 4| [HTML & CSS Review]() || Lesson 14 | [Prototypical Inheritance](13-prototypical-inheritance/readme.md) |
+| Lesson 5 | [Functions](04-functions/readme.md) || Lesson 15 | [Closures and This](14-closures-and-this/readme.md) |
+| Lesson 6 | [Objects](05-objects/readme.md) || Lesson 16 | [Intro to Crud and Firebase](15-intro-to-crud-and-firebase) |
+| Lesson 7 | [**Project 1 Lab**](06-in-class-lab) || Lesson 17 | [Deploying Your App](16-deploying-your-app/readme.md) |
+| Lesson 8 | [Intro to DOM & jQuery](07-intro-to-dom-and-jquery/readme.md)|| Lesson 18 |  [Instructor Student Choice](17-instructo-student-choice/readme.md) |
+| Lesson 9 | [Events and Templating](08-events-and-templating/readme.md) || Lesson 19 |[Lab Time](18-lab-time/readme.md) |
+| Lesson 10 | [MVC and Ajax](09-mvc-and-ajax/readme.md) || |Lesson 20| [**Project 3**]()|
+| |Lesson 20| Final Project Presentations |
 
 ---
 
@@ -52,7 +53,7 @@ B. Snacks in case you get hungry
 ### Class 00: Installfest
 
 - [Slides](http://ga-students.github.io/JS-DC-2/00-installfest/)
-- [Video](https://www.youtube.com/watch?v=ALbl5N3sH18)
+- [Resources]
 
 --
 

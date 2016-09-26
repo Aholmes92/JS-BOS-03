@@ -45,19 +45,12 @@ B. Snacks in case you get hungry
 | Lesson 9 | Events and Templating || Lesson 19 | Lab Time|
 | Lesson 10 | MVC and Ajax || Lesson 20| **Final Project**|
 
-
 ## Classes
 
 ### Class 00: Installfest
 
 - [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
-- [Resources]
+- [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
+- [Resources] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
 
---
-
-### Class 01: Command Line JS
-
-- [Slides](http://ga-students.github.io/JS-DC-2/01-command-line-JS/)
-- [Video](https://www.youtube.com/watch?v=Vad9oN4t_wY)
-- [Assignment](01-command-line-JS/assignment.md)
 

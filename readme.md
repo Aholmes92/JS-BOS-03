@@ -30,20 +30,44 @@ B. Snacks in case you get hungry
 - Tuesday and Thursday
 - September 27th - December 8th
 
-### Overview
+## Unit Breakdown
+
+| Class | Title | Project Prompt | Project Deadline|
+| --- | :---: |  --- | :---: |
+| **Unit 1: Fundamentals of JavaScript** | Lessons 1 - 7  | Slackbot: Introduced in Lesson 5| Slackbot: Due during Lesson 6-7|
+| **Unit 2: The Browser and APIs** | Lessons 8 - 13 | Feedr: Introduced at the end of Lesson 12 and during Lesson 13 Lab Time| Feedr: Due before start of Lesson 16 |
+| **Unit 3: Persisting Data and Advanced Topics**| Lessons 14 - 17 |Final Project: Introduced at end of Lesson 15| |
+| **Unit 4: Building and Deploying Your App**| Lessons 18 - 19 ||Final Project: Due during Lesson 20|
+
+### Lesson Breakdown
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 1 | Installfest || Lesson 11 | HTTP and AJAX |
-| Lesson 2 | Data Types || Lesson 12 | Debugging and AJAX |
+| Lesson 1 | Installfest || Lesson 11 | Callbacks and Promises |
+| Lesson 2 | Data Types || Lesson 12 | Advanced APIs |
 | Lesson 3 | Conditionals and Loops || Lesson 13 | **Project 2 Lab** |
 | Lesson 4 | HTML & CSS Review || Lesson 14 | Prototypical Inheritance|
-| Lesson 5 | Functions || Lesson 15 | Closures and This|
-| Lesson 6 | Objects || Lesson 16 | Intro to Crud and Firebase|
-| Lesson 7 | **Project 1 Lab** || Lesson 17 | Deploying Your App |
-| Lesson 8 | Intro to DOM & jQuery || Lesson 18 |  Instructor Student Choice|
-| Lesson 9 | Events and Templating || Lesson 19 | Lab Time|
-| Lesson 10 | MVC and Ajax || Lesson 20| **Final Project**|
+| Lesson 5 | Functions and Scope || Lesson 15 | Closures and This|
+| Lesson 6 | **Project 1 Lab** || Lesson 16 | Intro to Crud and Firebase|
+| Lesson 7 | Objects and JSON || Lesson 17 | Deploying Your App |
+| Lesson 8 | Javascript and DOM || Lesson 18 |  Instructor Choice|
+| Lesson 9 | jQuery || Lesson 19 | Lab Time|
+| Lesson 10 | AJAX and APIs || Lesson 20| **Final Project**|
+
+## Graduation Requirements
+In order to successfully complete JSD, students must:
+
+- Submit 80% of homework assignments
+- Miss no more than two classes
+- Successfully complete the course's final project
+
+## HOMEWORK
+
+- Homework will be assigned at the end of class every Thursday and is due the following Tuesday.
+
+- Files and materials for homework will be distributed during class, and are also available through this website.
+
+- Note: while late homeworks will be accepted, they will not receive feedback. Please schedule office hours if you would like feedback on late homework.
 
 ## Classes
 

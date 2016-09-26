@@ -25,8 +25,6 @@ A. Your laptop (and charger with your name on it!)
 
 B. Snacks in case you get hungry
 
-
-
 ## Schedule
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=dnQzNzhpM3BocG5zZHVtbzlpNXZvaG82cWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)

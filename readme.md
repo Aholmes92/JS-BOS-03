@@ -27,8 +27,8 @@ B. Snacks in case you get hungry
 
 ## Schedule
 
-Tuesday and Thursday
-September 27th - December 8th
+- Tuesday and Thursday
+- September 27th - December 8th
 
 ### Overview
 

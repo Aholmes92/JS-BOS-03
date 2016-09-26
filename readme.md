@@ -34,20 +34,6 @@ B. Snacks in case you get hungry
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-<<<<<<< HEAD
-| Lesson 1 | [Installfest]|| Lesson 11| [HTTP and AJAX]|
-| Lesson 2 | [Data Types] || Lesson 12 | [Debugging and AJAX]|
-| Lesson 3 | [Conditionals and Loops] || Lesson 13 | [**Project 2 Lab**]|
-| Lesson 4| [HTML & CSS Review] || Lesson 14 | [Prototypical Inheritance]|
-| Lesson 5 | [Functions] || Lesson 15 | [Closures and This]|
-| Lesson 6 | [Objects] || Lesson 16 | [Intro to Crud and Firebase]|
-| Lesson 7 | [**Project 1 Lab**] || Lesson 17 | [Deploying Your App] |
-| Lesson 8 | [Intro to DOM & jQuery]|| Lesson 18 |  [Instructor Student Choice]|
-| Lesson 9 | [Events and Templating] || Lesson 19 |[Lab Time]|
-| Lesson 10 | [MVC and Ajax] || Lesson 20| [**Final Project Presentations**]|
-
----
-=======
 | Lesson 1 | Installfest || Lesson 11 | HTTP and AJAX |
 | Lesson 2 | Data Types || Lesson 12 | Debugging and AJAX |
 | Lesson 3 | Conditionals and Loops || Lesson 13 | **Project 2 Lab** |
@@ -58,8 +44,6 @@ B. Snacks in case you get hungry
 | Lesson 8 | Intro to DOM & jQuery || Lesson 18 |  Instructor Student Choice|
 | Lesson 9 | Events and Templating || Lesson 19 | Lab Time|
 | Lesson 10 | MVC and Ajax || Lesson 20| **Final Project**|
-
->>>>>>> master
 
 ## Classes
 

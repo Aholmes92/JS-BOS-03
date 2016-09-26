@@ -52,7 +52,7 @@ September 27th - December 8th
 
 ### Class 00: Installfest
 
-- [Slides](http://ga-students.github.io/JS-DC-2/00-installfest/)
+- [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
 - [Resources]
 
 --

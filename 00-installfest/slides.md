@@ -687,9 +687,8 @@ Note:
 
 ### Office Hours
 
-- Jacob: Mon 6 - 8pm
-- Paul: Tu & Thu 5:30 - 6:30pm
-- Lauren: Su 2 - 4pm
+- Tu & Thu 5:30 - 6:30pm
+
 
 ---
 

@@ -39,7 +39,7 @@ B. Snacks in case you get hungry
 | Lesson 3 | Conditionals and Loops || Lesson 13 | **Project 2 Lab** |
 | Lesson 4 | HTML & CSS Review || Lesson 14 | Prototypical Inheritance|
 | Lesson 5 | Functions || Lesson 15 | Closures and This|
-| Lesson 6 | Objects          || Lesson 16 | Intro to Crud and Firebase|
+| Lesson 6 | Objects || Lesson 16 | Intro to Crud and Firebase|
 | Lesson 7 | **Project 1 Lab** || Lesson 17 | Deploying Your App |
 | Lesson 8 | Intro to DOM & jQuery || Lesson 18 |  Instructor Student Choice|
 | Lesson 9 | Events and Templating || Lesson 19 | Lab Time|

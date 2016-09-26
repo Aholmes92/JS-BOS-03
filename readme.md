@@ -42,8 +42,8 @@ September 27th - December 8th
 | Lesson 6 | [Objects] || Lesson 16 | [Intro to Crud and Firebase]|
 | Lesson 7 | [**Project 1 Lab**] || Lesson 17 | [Deploying Your App] |
 | Lesson 8 | [Intro to DOM & jQuery]|| Lesson 18 |  [Instructor Student Choice]|
-| Lesson 9 | [Events and Templating] || Lesson 19 |[Lab Time] |
-| Lesson 10 | [MVC and Ajax] || |Lesson 20| [**Final Project Presentations**]|
+| Lesson 9 | [Events and Templating] || Lesson 19 |[Lab Time]|
+| Lesson 10 | [MVC and Ajax] || Lesson 20| [**Final Project Presentations**]|
 
 ---
 

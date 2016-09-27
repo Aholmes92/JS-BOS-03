@@ -62,11 +62,8 @@ fun I promise!
 
 --
 
-<img src="img/darpa.jpg" style="max-height: 500px" />
-
 ### ARPANET
-
-Note:
+<img src="img/darpa.jpg" style="max-height: 500px" />
 
 - Research Project funded by government agency DARPA (Defense Advanced Research Projects Agency)
 - First connection in 1969
@@ -77,19 +74,14 @@ Note:
 
 <img src="img/arpanet.png" style="max-height: 600px" />
 
-Note:
-
 - Over time, more people added to the net: large business, smaller universities, etc
 - Other, smaller nets based on similar tech also began to emerge
 - These networks were connected to ARPANET, creating an "inter" net.
 
 --
 
-<img src="img/bernerslee.jpg" style="max-height: 500px" />
-
 ### _Sir_ Tim Berners-Lee
-
-Note:
+<img src="img/bernerslee.jpg" style="max-height: 500px" />
 
 - 1989 - 1990 Drafted the proposal for the WWW
 - He wanted a way to link the information in the disparate CERN
@@ -97,9 +89,9 @@ computers
 
 --
 
+### CERN
 <img src="img/cern.jpg" style="max-height: 500px" />
 
-### CERN
 
 --
 
@@ -109,36 +101,27 @@ http://info.cern.ch/hypertext/WWW/TheProject.html
 
 --
 
-<img src="img/mosaic.jpg" style="max-height: 500px" />
-
 ### High-Performance Computing and Communications Act of 1991
-
-Note:
+<img src="img/mosaic.jpg" style="max-height: 500px" />
 
 - Browser created with grant money from the bill, drafted by Al Gore.
 - This is when the internet began to take off outside of government/academia
 
 --
 
-<img src="img/gore.jpg" style="max-height: 500px" />
-
 ### Al Gore
+<img src="img/gore.jpg" style="max-height: 500px" />
 
 --
 
 <img src="img/netscape.png" style="max-height: 500px" />
 
-Note:
-
 - Marc Andreesen and other key employees left Mosaic to start Netscape
 
 --
 
-<img src="img/brendan.jpg" style="max-height: 500px" />
-
 ### Brendan Eich
-
-Note:
+<img src="img/brendan.jpg" style="max-height: 500px" />
 
 - Debate within Netscape about whether or not the browser needed a new Language
 - Netscape had a big deal in the works with Sun Microsystems, creator of Java
@@ -152,8 +135,6 @@ Note:
 
 <img src="img/java.jpg" style="max-height: 200px" />
 
-Note:
-
 - Eich was told the language needed to "look like" java
 - His primary inspiration came from a functional, mostly academic language called
 Scheme
@@ -162,9 +143,8 @@ paradigms: Object Oriented Programming and Functional Programming
 
 --
 
-<img src="img/java.jpg" style="max-height: 200px" />
-
 ### Object Oriented Programming
+<img src="img/java.jpg" style="max-height: 200px" />
 
 - Everything is an Object
 - Objects have attributes and methods
@@ -175,15 +155,11 @@ paradigms: Object Oriented Programming and Functional Programming
 
 --
 
-<img src="img/scheme.jpg" style="max-height: 200px" />
-
 ### Functional Programming
+<img src="img/scheme.jpg" style="max-height: 200px" />
 
 - Everything is a function
 - Mathematical
-
-Note:
-
 - Comes from a type of math called Lambda Calculus, hence the symbol in Scheme's
 logo
 
@@ -191,15 +167,11 @@ logo
 
 <img src="img/fp.png" style="max-height: 600px" />
 
-Note:
-
 - To do interesting things, we combine and compose functions
 
 --
 
 <img src="img/javascript.png" style="max-height: 500px" />
-
-Note:
 
 - Name was changed to JS because of the deal with Sun Microsystems; primarily
 a marketing/branding decision
@@ -207,8 +179,6 @@ a marketing/branding decision
 --
 
 ### ECMAScript
-
-Note:
 
 - Standard for the language to formalize what JavaScript was in 1996
 - Needed because more browsers were being created with different implementations
@@ -220,7 +190,9 @@ never reached the popularity of JavaScript
 
 
 ##How The Internet Works
-<img src="img/how_internet_works.png" style="max-height: 200px" />
+<img src="img/how_internet_works.png"  />
+
+<img src="img/Client-server-model.png">
 
 ---
 

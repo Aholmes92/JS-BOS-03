@@ -342,6 +342,23 @@ We'll be using Slack to register attendance and communicate during class.
 
 ---
 
+##What is a Program?
+A program is a set of instructions that you write to tell a computer what to do
+--
+##What is programming?
+Programming is the task of writing those instructions in a language that the computer can understand.
+     
+--
+
+##How Computers ‘Think’
+The short answer is that they don’t think.
+
+The slightly longer answer is that while computers don’t think, they act as if they do, by sequentially executing simple instructions.
+
+The only things a computer knows are the things we tell it.
+       
+--
+
 ## Think like a programmer
 
 - Drawing exercise

@@ -71,7 +71,11 @@ In order to successfully complete JSD, students must:
 
 ## Classes
 
-### Class 00: Installfest
+### Class 1: Installfest
+Topics
+- How the internet works
+- JS History
+- Tools: Sublime, Chrome, Github
 
 - [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
 - [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)

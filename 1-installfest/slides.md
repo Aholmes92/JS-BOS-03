@@ -29,9 +29,6 @@
 --
 
 ## Mike
-
-<img src="img/paul.jpg" style="max-height: 500px" />
-
 - [mrfinneran@gmail.com](mrfinneran@gmail.com)
 
 --
@@ -46,8 +43,6 @@ Write the directions to making a peanut butter and jelly sandwich on the table i
 
 ---
 ## Disclaimer
-
-Note:
 
 Disclaimer - This class will not be heavy in traditional computer science (theory,
 history, etc); we are primarily concerned with the practical. We want you to be able
@@ -64,15 +59,20 @@ fun I promise!
 ### ARPANET
 <img src="img/darpa.jpg" style="max-height: 500px" />
 
+--
+
+### ARPANET
 - Research Project funded by government agency DARPA (Defense Advanced Research Projects Agency)
 - First connection in 1969
 - Used for sending information: email, files
 - Connected military bases and research universities
 
 --
-
+### ARPANET
 <img src="img/arpanet.png" style="max-height: 600px" />
 
+--
+### ARPANET
 - Over time, more people added to the net: large business, smaller universities, etc
 - Other, smaller nets based on similar tech also began to emerge
 - These networks were connected to ARPANET, creating an "inter" net.
@@ -82,9 +82,13 @@ fun I promise!
 ### _Sir_ Tim Berners-Lee
 <img src="img/bernerslee.jpg" style="max-height: 500px" />
 
+--
+
+### _Sir_ Tim Berners-Lee
 - 1989 - 1990 Drafted the proposal for the WWW
 - He wanted a way to link the information in the disparate CERN
 computers
+
 
 --
 
@@ -108,12 +112,20 @@ http://info.cern.ch/hypertext/WWW/TheProject.html
 
 --
 
+### High-Performance Computing and Communications Act of 1991
+
+- Browser created with grant money from the bill, drafted by Al Gore.
+- This is when the internet began to take off outside of government/academia
+
+
+--
+
 ### Al Gore
 <img src="img/gore.jpg" style="max-height: 500px" />
 
 --
 
-<img src="img/netscape.png" style="max-height: 500px" />
+<img src="img/netscape.png" style="max-height: 200px" />
 
 - Marc Andreesen and other key employees left Mosaic to start Netscape
 
@@ -122,6 +134,8 @@ http://info.cern.ch/hypertext/WWW/TheProject.html
 ### Brendan Eich
 <img src="img/brendan.jpg" style="max-height: 500px" />
 
+--
+### Brendan Eich
 - Debate within Netscape about whether or not the browser needed a new Language
 - Netscape had a big deal in the works with Sun Microsystems, creator of Java
 - Created "LiveScript" in 10 days
@@ -134,6 +148,8 @@ http://info.cern.ch/hypertext/WWW/TheProject.html
 
 <img src="img/java.jpg" style="max-height: 200px" />
 
+--
+### Brendan Eich
 - Eich was told the language needed to "look like" java
 - His primary inspiration came from a functional, mostly academic language called
 Scheme
@@ -189,12 +205,26 @@ never reached the popularity of JavaScript
 
 
 ##How The Internet Works
+
+--
+
+
 <img src="img/how_internet_works.png"  />
+
+--
+
 
 <img src="img/Client-server-model.png">
 
 --
 
+<img src="img/techstack.png">
+
+--
+
+<img src="img/browsers.png">
+
+--
 ###Intro To HTML
 
 * HyperText Markup Language
@@ -222,7 +252,6 @@ never reached the popularity of JavaScript
 * C & Java inspired syntax, and is a prototype based language with first class functions
 * Is not related to the Java server side language
 * Is the only real programming language available for the browser
-### Awesome Modern JavaScript Uses
 
 --
 
@@ -230,8 +259,12 @@ never reached the popularity of JavaScript
 
 <img src="img/history_of_web.png" style="max-height: 200px" />
 
----
+--
+##3 Amigos: HTML, CSS, JS
 
+<img src="img/html_css_js.png"  />
+
+--
 
 #### Traditional Sites
 
@@ -243,7 +276,7 @@ never reached the popularity of JavaScript
 - https://www.mapbox.com/studio/
 - https://www.consumerbarometer.com/
 
----
+--
 
 ### It's No Longer Limited to the Browser
 
@@ -348,7 +381,7 @@ We'll be using Slack to register attendance and communicate during class.
 
 ---
 
-## [Exit Ticket!](http://goo.gl/forms/KzVZ9fuo2YYw5WIB3)
+## [Exit Ticket!](http://bit.ly/2cZaU9c)
 
 ---
 

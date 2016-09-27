@@ -209,6 +209,10 @@ never reached the popularity of JavaScript
 ##How The Internet Works
 <img src="img/how_internet_works.png"  />
 
+--
+
+##How The Internet Works
+
 <img src="img/Client-server-model.png">
 
 --
@@ -240,7 +244,6 @@ never reached the popularity of JavaScript
 * C & Java inspired syntax, and is a prototype based language with first class functions
 * Is not related to the Java server side language
 * Is the only real programming language available for the browser
-### Awesome Modern JavaScript Uses
 
 --
 
@@ -248,7 +251,7 @@ never reached the popularity of JavaScript
 
 <img src="img/history_of_web.png" style="max-height: 200px" />
 
----
+--
 
 
 #### Traditional Sites
@@ -261,7 +264,7 @@ never reached the popularity of JavaScript
 - https://www.mapbox.com/studio/
 - https://www.consumerbarometer.com/
 
----
+--
 
 ### It's No Longer Limited to the Browser
 

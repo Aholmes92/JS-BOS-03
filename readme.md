@@ -5,30 +5,26 @@
 - Producer
   - Christopher Austin
     - [christopher.austin@generalassemb.ly](christopher.austin@generalassemb.ly)
+
 - Instructors
   - Michael Finneran
     - [mrfinneran@gmail.com](mrfinneran@gmail.com)
   - Ray Haarstick
     - [ray@relevant.us](ray@relevant.us)
-- Office hours:
-  - Tu & Thu 5:30pm - 6:30pm
-
-
-## Course information
-
-Class will meet Tues and Thurs on the basement floor in classroom 1 from 6:30 - 9:30pm -  51 Melcher St. Boston, MA 02210
-
-
-## What to Bring
-
-A. Your laptop (and charger with your name on it!)
-
-B. Snacks in case you get hungry
 
 ## Schedule
 
+- 51 Melcher St. Boston, MA 02210
 - Tuesday and Thursday
 - September 27th - December 8th
+- 5:30 - 6:30 office hours
+- 6:30 - 9:30 class
+
+## What to Bring
+
+- Your laptop (and charger with your name on it!)
+- Snacks (in case you get hungry)
+
 
 ## Unit Breakdown
 
@@ -63,9 +59,9 @@ In order to successfully complete JSD, students must:
 
 ## Homework
 
-- Homework will be assigned at the end of class every Thursday and is due the following Tuesday.
+- Homework will be assigned at the end of class and collected at the beginning of the next class.
 
-- Files and materials for homework will be distributed during class, and are also available through this website.
+- Some homeworks will not be collected or graded such as reading assignments. 
 
 - Note: while late homeworks will be accepted, they will not receive feedback. Please schedule office hours if you would like feedback on late homework.
 

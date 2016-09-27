@@ -1,5 +1,5 @@
 <img src="https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/5225/JS-logo-official.png" style="max-width: 100px; border: none; box-shadow: none" />
-### Class 00: InstallFest
+### Class 1: InstallFest
 
 * Get to know your classmates, instructors, and staff members.
 * Explain the structure of the course and tools that will be used.
@@ -14,11 +14,12 @@
 | Timing | Topic |
 | --- | --- |
 | 25 min | Opening & Introductions |
-| 30 min | What Makes JS Important? |
+| 10 min | How does the internet work? |
+| 20 min | HTML, CSS, & JS |
 | 5 min | Break |
 | 55 min | Install All The Things! |
 | 5 min | Break |
-| 30 min | What Makes JS Interesting? |
+| 30 min | JS History |
 | 10 min | Exercise: Thinking Like a Programmer |
 | 20 min | Class Information, Final Questions & Exit Tickets |
 
@@ -32,32 +33,7 @@
 
 <img src="img/paul.jpg" style="max-height: 500px" />
 
-- [paul.doulatshahi@gmail.com](Paul.Doulatshahi@gmail.com)
-
---
-
-<img src="img/jacob1.jpg" style="max-height: 500px" />
-### Jacob as Engineer
-
---
-
-<img src="img/jacob2.jpg" style="max-height: 500px" />
-### Jacob as Outdoorsman
-
---
-
-<img src="img/jacob3.jpg" style="max-height: 500px" />
-### Jacob as Food/Drink Enthusiast
-
---
-
-<img src="img/jacob4.jpg" style="max-height: 500px" />
-### Jacob as Space Geek
-
---
-
-## Paul Doulatshahi
-  - [paul.doulatshahi@gmail.com](Paul.Doulatshahi@gmail.com)
+- [mrfinneran@gmail.com](mrfinneran@gmail.com)
 
 --
 
@@ -66,17 +42,21 @@
 
 ---
 
-## What Makes JS Important?
+## Ice Breaker
+Write the directions to making a peanut butter and jelly sandwich on the table in front of you.
+
+---
+## Disclaimer
 
 Note:
 
 Disclaimer - This class will not be heavy in traditional computer science (theory,
 history, etc); we are primarily concerned with the practical. We want you to be able
 to write programs in JavaScript. Today is an exception to that rule -- in order to
-build context, I am going to delve a bit into history and theory, but it will be
+build context, I am going to delve a bit into history, but it will be
 fun I promise!
 
---
+---
 
 ### The Language of the Web
 
@@ -236,9 +216,51 @@ of JavaScript
 - Rivals, Java for the browser, ActionScript, Flash existed, but fell off and
 never reached the popularity of JavaScript
 
---
+---
 
+
+##How The Internet Works
+<img src="img/how_internet_works.png" style="max-height: 200px" />
+
+---
+
+###Intro To HTML
+
+* HyperText Markup Language
+* Been around since the early 90's
+* Started as a way for researchers to use and share documents and first version had 18 tags
+* Gives meaning (and a little visual structure) to content
+* Not a programming langage
+
+---
+
+##Intro To CSS
+
+* Cascading Style Sheets
+* Been around since the mid 90's
+* Handles all of the visual aspects to a webpage and removed the need for HTML to handle this
+* Made up of a series of centralized rules that can override each other
+* Not a programming language
+
+---
+
+##Intro To JavaScript
+
+* Adds behavior to webpages and applications
+* Been around since the mid 90's
+* C & Java inspired syntax, and is a prototype based language with first class functions
+* Is not related to the Java server side language
+* Is the only real programming language available for the browser
 ### Awesome Modern JavaScript Uses
+
+---
+
+##Timeline
+
+<img src="img/history_of_web.png" style="max-height: 200px" />
+
+---
+
 
 #### Traditional Sites
 
@@ -249,6 +271,14 @@ never reached the popularity of JavaScript
 
 - https://www.mapbox.com/studio/
 - https://www.consumerbarometer.com/
+
+---
+
+### It's No Longer Limited to the Browser
+
+- Mobile Applications (via React Native, Phonegap, Cordova, etc)
+- Wearables (via Embedded JS Engines)
+- *On your command line/terminal (via Node)*
 
 ---
 
@@ -289,6 +319,12 @@ We'll be using Slack to register attendance and communicate during class.
 
 --
 
+### JSBIN 
+
+- Code Playground
+
+--
+
 #### __WARNING:__ Problems getting your environment configured come with the territory.
 
 ---
@@ -297,31 +333,35 @@ We'll be using Slack to register attendance and communicate during class.
 
 ---
 
-## What Makes JavaScript Interesting?
+## HTML and CSS Review
 
---
+- Light Switch Example
 
-### It's Powerful
+- https://jsbin.com/tidiru/edit
 
+---
 
---
+## Psuedo Code for Stop Light
 
-### High Level of Abstraction
+- Light Switch psuedo code
 
-i.e. `4 + 1`
+- https://jsbin.com/tidiru/edit
 
-Note:
+---
 
-- In JavaScript it is much easier to write solutions to complicated problems
-- Can you imagine trying to calculate the area under a curve on a Turing Machine?
+## HTML and CSS Review
 
---
+- Stoplight Example
 
-### It's No Longer Limited to the Browser
+- https://jsbin.com/luseso/edit
 
-- Mobile Applications (via React Native, Phonegap, Cordova, etc)
-- Wearables (via Embedded JS Engines)
-- *On your command line/terminal (via Node)*
+---
+
+## Psuedo Code for Stop Light
+
+- Stoplight psuedo code
+
+- https://jsbin.com/luseso/edit
 
 ---
 

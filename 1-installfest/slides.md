@@ -370,7 +370,7 @@ We'll be using Slack to register attendance and communicate during class.
 
 ---
 
-## [Exit Ticket!](http://goo.gl/forms/KzVZ9fuo2YYw5WIB3)
+## [Exit Ticket!](http://bit.ly/2cZaU9c)
 
 ---
 

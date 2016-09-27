@@ -34,8 +34,8 @@ B. Snacks in case you get hungry
 
 | Class | Title | Project Prompt | Project Deadline|
 | --- | :---: |  --- | :---: |
-| **Unit 1: Fundamentals of JavaScript** | Lessons 1 - 7  | Slackbot: Introduced in Lesson 5| Slackbot: Due during Lesson 6-7|
-| **Unit 2: The Browser and APIs** | Lessons 8 - 13 | Feedr: Introduced at the end of Lesson 12 and during Lesson 13 Lab Time| Feedr: Due before start of Lesson 16 |
+| **Unit 1: Fundamentals of JavaScript** | Lessons 1 - 7  | Project 1: Introduced in Lesson 5| Project 1: Due during Lesson 6-7|
+| **Unit 2: The Browser and APIs** | Lessons 8 - 13 | Project 2: Introduced at the end of Lesson 12 and during Lesson 13 Lab Time| Project 2: Due before start of Lesson 16 |
 | **Unit 3: Persisting Data and Advanced Topics**| Lessons 14 - 17 |Final Project: Introduced at end of Lesson 15| |
 | **Unit 4: Building and Deploying Your App**| Lessons 18 - 19 ||Final Project: Due during Lesson 20|
 

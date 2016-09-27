@@ -75,8 +75,7 @@ In order to successfully complete JSD, students must:
 Topics
 - How the internet works
 - JS History
-- Tools: Sublime, Chrome, Github
-
+- JS Development Tools
 - [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
 - [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
 - [Resources] (http://ga-students.github.io/JS-BOS-03/00-installfest/)

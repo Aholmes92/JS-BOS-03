@@ -41,18 +41,18 @@ B. Snacks in case you get hungry
 
 ## Lesson Breakdown
 
-| Class | Title |  | Class | Title |
+| Class | Lesson |  | Class | Lesson |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 1 | Installfest || Lesson 11 | Callbacks and Promises |
-| Lesson 2 | Data Types || Lesson 12 | Advanced APIs |
-| Lesson 3 | Conditionals and Loops || Lesson 13 | **Project 2 Lab** |
-| Lesson 4 | HTML & CSS Review || Lesson 14 | Prototypical Inheritance|
-| Lesson 5 | Functions and Scope || Lesson 15 | Closures and This|
-| Lesson 6 | **Project 1 Lab** || Lesson 16 | Intro to Crud and Firebase|
-| Lesson 7 | Objects and JSON || Lesson 17 | Deploying Your App |
-| Lesson 8 | Javascript and DOM || Lesson 18 |  Instructor Choice|
-| Lesson 9 | jQuery || Lesson 19 | Lab Time|
-| Lesson 10 | AJAX and APIs || Lesson 20| **Final Project**|
+| Day 1 | Installfest || Day 11 | Callbacks and Promises |
+| Day 2 | Data Types || Day 12 | Advanced APIs |
+| Day 3 | Conditionals and Loops || Day 13 | **Project 2 Lab** |
+| Day 4 | HTML & CSS Review || Day 14 | Prototypical Inheritance|
+| Day 5 | Functions and Scope || Day 15 | Closures and This|
+| Day 6 | **Project 1 Lab** || Day 16 | Intro to Crud and Firebase|
+| Day 7 | Objects and JSON || Day 17 | Deploying Your App |
+| Day 8 | Javascript and DOM || Day 18 |  Instructor Choice|
+| Day 9 | jQuery || Day 19 | Lab Time|
+| Day 10 | AJAX and APIs || Day 20| **Final Project**|
 
 ## Graduation Requirements
 In order to successfully complete JSD, students must:

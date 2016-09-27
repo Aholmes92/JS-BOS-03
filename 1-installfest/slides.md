@@ -28,7 +28,7 @@
 
 --
 
-## Mike
+## Mike Finneran
 - [mrfinneran@gmail.com](mrfinneran@gmail.com)
 
 --
@@ -39,7 +39,12 @@
 ---
 
 ## Ice Breaker
-Write the directions to making a peanut butter and jelly sandwich on the table in front of you.
+1.  Write the directions to making a peanut butter and jelly sandwich on the table in front of you.
+
+---
+
+## Ice Breaker
+2.  Introduce yourself, why you took this course, and your steps to making a sandwich
 
 ---
 ## Disclaimer

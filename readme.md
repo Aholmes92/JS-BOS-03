@@ -72,12 +72,12 @@ In order to successfully complete JSD, students must:
 ## Classes
 
 ### Class 1: Installfest
-Topics
+1.  Topics
 - How the internet works
 - JS History
 - JS Development Tools
-- [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
-- [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
-- [Resources] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
+2.  [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
+3.  [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
+4.  [Resources] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
 
 

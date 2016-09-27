@@ -30,27 +30,54 @@ B. Snacks in case you get hungry
 - Tuesday and Thursday
 - September 27th - December 8th
 
-### Overview
+## Unit Breakdown
 
-| Class | Title |  | Class | Title |
+| Unit | Class | Project Start | Project Deadline|
+| --- | :---: |  --- | :---: |
+| **Unit 1: Fundamentals of JavaScript** | Classes 1 - 7  | Project 1: Class 5| Project 1: Class 6-7|
+| **Unit 2: The Browser and APIs** | Classes 8 - 13 | Project 2: Class 12 - 13 | Project 2: Class 16 |
+| **Unit 3: Persisting Data and Advanced Topics**| Classes 14 - 17 |Final Project: Class 15| |
+| **Unit 4: Building and Deploying Your App**| Classes 18 - 19 ||Final Project: Class 20|
+
+## Lesson Breakdown
+
+| Class | Lesson |  | Class | Lesson |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 1 | Installfest || Lesson 11 | HTTP and AJAX |
-| Lesson 2 | Data Types || Lesson 12 | Debugging and AJAX |
-| Lesson 3 | Conditionals and Loops || Lesson 13 | **Project 2 Lab** |
-| Lesson 4 | HTML & CSS Review || Lesson 14 | Prototypical Inheritance|
-| Lesson 5 | Functions || Lesson 15 | Closures and This|
-| Lesson 6 | Objects || Lesson 16 | Intro to Crud and Firebase|
-| Lesson 7 | **Project 1 Lab** || Lesson 17 | Deploying Your App |
-| Lesson 8 | Intro to DOM & jQuery || Lesson 18 |  Instructor Student Choice|
-| Lesson 9 | Events and Templating || Lesson 19 | Lab Time|
-| Lesson 10 | MVC and Ajax || Lesson 20| **Final Project**|
+| Day 1 | Installfest || Day 11 | Callbacks and Promises |
+| Day 2 | Data Types || Day 12 | Advanced APIs |
+| Day 3 | Conditionals and Loops || Day 13 | **Project 2 Lab** |
+| Day 4 | HTML & CSS Review || Day 14 | Prototypical Inheritance|
+| Day 5 | Functions and Scope || Day 15 | Closures and This|
+| Day 6 | **Project 1 Lab** || Day 16 | Intro to Crud and Firebase|
+| Day 7 | Objects and JSON || Day 17 | Deploying Your App |
+| Day 8 | Javascript and DOM || Day 18 |  Instructor Choice|
+| Day 9 | jQuery || Day 19 | Lab Time|
+| Day 10 | AJAX and APIs || Day 20| **Final Project**|
+
+## Graduation Requirements
+In order to successfully complete JSD, students must:
+
+- Submit 80% of homework assignments
+- Miss no more than two classes
+- Successfully complete the course's final project
+
+## Homework
+
+- Homework will be assigned at the end of class every Thursday and is due the following Tuesday.
+
+- Files and materials for homework will be distributed during class, and are also available through this website.
+
+- Note: while late homeworks will be accepted, they will not receive feedback. Please schedule office hours if you would like feedback on late homework.
 
 ## Classes
 
-### Class 00: Installfest
-
-- [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
-- [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
-- [Resources] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
+### Class 1: Installfest
+1.  Topics
+	- How the internet works
+	- JS History
+	- JS Development Tools
+2.  [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
+3.  [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
+4.  [Resources] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
 
 

@@ -14,13 +14,12 @@
 | Timing | Topic |
 | --- | --- |
 | 25 min | Opening & Introductions |
-| 10 min | How does the internet work? |
-| 20 min | HTML, CSS, & JS |
+| 15 min | The language of the web |
+| 15 min | How the internet works |
 | 5 min | Break |
-| 55 min | Install All The Things! |
-| 5 min | Break |
-| 30 min | JS History |
-| 10 min | Exercise: Thinking Like a Programmer |
+| 30 min | Install All The Things! |
+| 10 min | Break |
+| 60 min | Exercise: Thinking Like a Programmer |
 | 20 min | Class Information, Final Questions & Exit Tickets |
 
 ---
@@ -194,7 +193,7 @@ never reached the popularity of JavaScript
 
 <img src="img/Client-server-model.png">
 
----
+--
 
 ###Intro To HTML
 
@@ -204,7 +203,7 @@ never reached the popularity of JavaScript
 * Gives meaning (and a little visual structure) to content
 * Not a programming langage
 
----
+--
 
 ##Intro To CSS
 
@@ -214,7 +213,7 @@ never reached the popularity of JavaScript
 * Made up of a series of centralized rules that can override each other
 * Not a programming language
 
----
+--
 
 ##Intro To JavaScript
 
@@ -225,7 +224,7 @@ never reached the popularity of JavaScript
 * Is the only real programming language available for the browser
 ### Awesome Modern JavaScript Uses
 
----
+--
 
 ##Timeline
 
@@ -304,6 +303,18 @@ We'll be using Slack to register attendance and communicate during class.
 ## Break
 
 ---
+
+## Think like a programmer
+
+- Drawing exercise
+
+
+--
+## Think like a programmer
+<img src="img/draw_a_house.png"/>
+
+---
+
 
 ## HTML and CSS Review
 

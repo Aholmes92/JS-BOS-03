@@ -72,8 +72,8 @@ In order to successfully complete JSD, students must:
 	- How the internet works
 	- JS History
 	- JS Development Tools
-2.  [Slides](http://ga-students.github.io/JS-BOS-03/00-installfest/)
-3.  [Assignment] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
-4.  [Resources] (http://ga-students.github.io/JS-BOS-03/00-installfest/)
+2.  [Slides](http://ga-students.github.io/JS-BOS-03/1-installfest/)
+3.  [Assignment] (1-installfest/assignments.md)
+4.  [Resources] (1-installfest/resources.md)
 
 

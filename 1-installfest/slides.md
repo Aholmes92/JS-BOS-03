@@ -260,7 +260,11 @@ never reached the popularity of JavaScript
 <img src="img/history_of_web.png" style="max-height: 200px" />
 
 --
+##3 Amigos: HTML, CSS, JS
 
+<img src="img/html_css_js.png"  />
+
+--
 
 #### Traditional Sites
 

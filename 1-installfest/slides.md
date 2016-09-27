@@ -44,8 +44,6 @@ Write the directions to making a peanut butter and jelly sandwich on the table i
 ---
 ## Disclaimer
 
-Note:
-
 Disclaimer - This class will not be heavy in traditional computer science (theory,
 history, etc); we are primarily concerned with the practical. We want you to be able
 to write programs in JavaScript. Today is an exception to that rule -- in order to
@@ -207,11 +205,14 @@ never reached the popularity of JavaScript
 
 
 ##How The Internet Works
+
+--
+
+
 <img src="img/how_internet_works.png"  />
 
 --
 
-##How The Internet Works
 
 <img src="img/Client-server-model.png">
 

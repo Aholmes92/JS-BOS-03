@@ -39,7 +39,7 @@ B. Snacks in case you get hungry
 | **Unit 3: Persisting Data and Advanced Topics**| Lessons 14 - 17 |Final Project: Introduced at end of Lesson 15| |
 | **Unit 4: Building and Deploying Your App**| Lessons 18 - 19 ||Final Project: Due during Lesson 20|
 
-### Lesson Breakdown
+## Lesson Breakdown
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
@@ -61,7 +61,7 @@ In order to successfully complete JSD, students must:
 - Miss no more than two classes
 - Successfully complete the course's final project
 
-## HOMEWORK
+## Homework
 
 - Homework will be assigned at the end of class every Thursday and is due the following Tuesday.
 

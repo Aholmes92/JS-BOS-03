@@ -29,9 +29,6 @@
 --
 
 ## Mike
-
-<img src="img/paul.jpg" style="max-height: 500px" />
-
 - [mrfinneran@gmail.com](mrfinneran@gmail.com)
 
 --

@@ -218,6 +218,13 @@ never reached the popularity of JavaScript
 
 --
 
+<img src="img/techstack.png">
+
+--
+
+<img src="img/browsers.png">
+
+--
 ###Intro To HTML
 
 * HyperText Markup Language

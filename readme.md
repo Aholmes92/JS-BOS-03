@@ -1,30 +1,29 @@
 # ![](assets/logo.png) JavaScript Development
 
-## People
+## Team
 
-- Producer
-  - Christopher Austin
-    - [christopher.austin@generalassemb.ly](christopher.austin@generalassemb.ly)
+- Producers
+  - Matt Quinn [matt.quinn@generalassemb.ly](matt.quinn@generalassemb.ly)
+  - Christopher Austin [christopher.austin@generalassemb.ly](christopher.austin@generalassemb.ly)
 
 - Instructors
-  - Michael Finneran
-    - [mrfinneran@gmail.com](mrfinneran@gmail.com)
-  - Ray Haarstick
-    - [ray@relevant.us](ray@relevant.us)
+  - Michael Finneran [mrfinneran@gmail.com](mrfinneran@gmail.com)
+  - Ray Haarstick [ray@relevant.us](ray@relevant.us)
+
+- You
 
 ## Schedule
 
-- 51 Melcher St. Boston, MA 02210
-- Tuesday and Thursday
 - September 27th - December 8th
-- 5:30 - 6:30 office hours
+- Tuesday and Thursday
 - 6:30 - 9:30 class
+- 5:30 - 6:30 office hours
+- 51 Melcher St. Boston, MA 02210
 
 ## What to Bring
 
 - Your laptop (and charger with your name on it!)
 - Snacks (in case you get hungry)
-
 
 ## Unit Breakdown
 
@@ -39,7 +38,7 @@
 
 | Class | Lesson |  | Class | Lesson |
 | --- | :---: | --- |  --- | :---: |
-| Day 1 | [Installfest] (1-installfest/readme.md) || Day 11 | Callbacks and Promises |
+| Day 1 | [Installfest](1-installfest/readme.md) || Day 11 | Callbacks and Promises |
 | Day 2 | Data Types || Day 12 | Advanced APIs |
 | Day 3 | Conditionals and Loops || Day 13 | **Project 2 Lab** |
 | Day 4 | HTML & CSS Review || Day 14 | Prototypical Inheritance|

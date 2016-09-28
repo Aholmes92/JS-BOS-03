@@ -31,8 +31,8 @@
 | Unit | Class | Project Start | Project Deadline|
 | --- | :---: |  --- | :---: |
 | Unit 1: Fundamentals of JavaScript | 1 - 7  | Project 1: Class 5| Project 1: Class 6-7|
-| Unit 2: The Browser and APIs | 8 - 13 |  | Project 2: Class 16 |
-| Unit 3: Persisting Data and Advanced Topics| 14 - 17 |Final Project: Class 15| Project 2: Class 12 - 13|
+| Unit 2: The Browser and APIs | 8 - 13 | Project 2: Class 12 - 13  |  |
+| Unit 3: Persisting Data and Advanced Topics| 14 - 17 |Final Project: Class 15| Project 2: Class 16 |
 | Unit 4: Building and Deploying Your App| 18 - 20 ||Final Project: Class 20|
 
 ## Lesson Breakdown

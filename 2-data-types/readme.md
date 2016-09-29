@@ -44,14 +44,17 @@
 - Strings
 	- http://www.w3schools.com/jsref/jsref_obj_string.asp
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+	- Page 119 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 
 - Numbers
 	- http://www.w3schools.com/jsref/jsref_obj_number.asp
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+	- Page 122 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 
 - Boolean
 	- http://www.w3schools.com/jsref/jsref_obj_boolean.asp
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
+	- Page 125 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 
 - Operators
 	- http://www.w3schools.com/jsref/jsref_operators.asp
@@ -60,19 +63,23 @@
 - Array
 	- http://www.w3schools.com/js/js_arrays.asp
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+	- Page 111 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 
 - Math
 	- http://www.w3schools.com/jsref/jsref_obj_math.asp
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+	- Page 119 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 
 - Javascript Cheat Sheets
 	- http://overapi.com/javascript
 	- https://www.cheatography.com/davechild/cheat-sheets/javascript/
 
+- Javasscript is weird, get used to it
+	- https://www.destroyallsoftware.com/talks/wat
+	- ttp://brian.io/slides/dotjs-2012/
+
 - iPhone App for practice 
 	-http://lrnapp.com/
-
-
 ---
 
 

@@ -655,6 +655,11 @@ message.join(' ')
 In the [starter code](starter-code/arrays.js), you'll find an array.js file. Use this to get some more practice in the console with arrays.
 
 ---
+
+<a href="http://brian.io/slides/dotjs-2012/">wtf JS</a>
+<video src="https://www.destroyallsoftware.com/talks/wat"></video>
+
+---
 <a name="lab2"></a>
 ## Homework:  (10 min)
 - Complete Madlibs

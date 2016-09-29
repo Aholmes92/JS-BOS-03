@@ -26,7 +26,7 @@
 
 ### Slides
 
-[Day 1: Installfest](http://ga-students.github.io/JS-BOS-03/2-data-types/)
+[Day 2: Data Types](http://ga-students.github.io/JS-BOS-03/2-data-types/)
 
 ---
 

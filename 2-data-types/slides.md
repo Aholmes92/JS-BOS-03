@@ -28,10 +28,17 @@
 
 <a name="opening"></a>
 ## What is a Data Type? (10 min)
-
+--
 Let's jump into today's lesson—data types—where we’ll learn the basics of JavaScript and how to exchange data. 
 
-Building an app requires the exchange of data—and it all starts with data types. But what are data types? In computer science and computer programming, a data type is a classification identifying one of various types of data. Using data types, we can determine 1) the possible values for that type; 2) the operations that can be performed on values of that type; 3) the meaning of the data; and 4) the way values of that type can be stored.
+Building an app requires the exchange of data—and it all starts with data types. But what are data types? In computer science and computer programming, a data type is a classification identifying one of various types of data. 
+
+Using data types, we can determine 
+1) the possible values for that type; 
+2) the operations that can be performed on values of that type; 
+3) the meaning of the data; and 
+4) the way values of that type can be stored.
+--
 
 You might have already encountered data types. Data types hold many similarities across different languages:
 
@@ -44,15 +51,16 @@ You might have already encountered data types. Data types hold many similarities
 | Arrays | Collections of Data | [ Superman, Batman, Spider-Man] |
 | Objects | ------ | ----- |
 
+--
 We'll now elaborate on Strings, Integers, and Floats (the others will come later)and explain how they differ in JavaScript, show you how to work with each type, and get some practice using “helper methods” to manipulate this data.
 
 *Citation: [Wikipedia](https://en.wikipedia.org/wiki/Data_type)*
-
+--
 #### Working with Data in JavaScript
 
 JavaScript contains a standard library of objects, including Array, Date, and Math, as well as a core set of language elements, such as operators, control structures, and statements; client-side JavaScript extends this core language by providing objects to control a browser and its Document Object Model (DOM). For example, client-side extensions allow an application to place elements on an HTML form and respond to user events, such as mouse clicks, form input, and page navigation.
 
->Note: This is a good point to provide examples of browser-based JavaScript applications. Open an example [application form](https://generalassemb.ly/applications/new/javascript-development) on the General Assembly website and pull up the source code to show students how client-side JavaScript works.
+This is a good point to provide examples of browser-based JavaScript applications. Open an example [application form](https://generalassemb.ly/applications/new/javascript-development) on the General Assembly website and pull up the source code to show students how client-side JavaScript works.
 
 *Citation: [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)*
 
@@ -60,11 +68,14 @@ JavaScript contains a standard library of objects, including Array, Date, and Ma
 <a name="codealong1"></a>
 ## Datatypes (15 min)
 
-For this lesson, we're going to use the terminal and Node to run some basic scripts to understand the types of data we're working with. Open the terminal and type in ```node```.
+For this lesson, we're going to use our Chrome console to practice javascript.
 
+--
 #### Part 1: `typeof( )`
 
-We don’t yet know what type of data we're working with, so let’s ask the computer. To do this, we can use [`typeof()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof). Let's try it out in the terminal with the following:
+We don’t yet know what type of data we're working with, so let’s ask the computer. To do this, we can use [`typeof()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof). 
+--
+Let's try it out in the console with the following:
 
   ```javascript
   typeof(37) === 'number';
@@ -78,12 +89,13 @@ We don’t yet know what type of data we're working with, so let’s ask the com
 
   ```
   `typeof()` returns a string with the type of the operand, or expression of the object you're looking at.
+--
 
-  >Note: At this point we haven't explained exactly what objects are. Provide a brief overview of objects as a collection of properties, and of a property as an association between a key and a value. Objects in JavaScript are used in two ways:
+At this point we haven't explained exactly what objects are. Provide a brief overview of objects as a collection of properties, and of a property as an association between a key and a value. Objects in JavaScript are used in two ways:
     >1. As simple structured data store, similar to arrays—the main difference being that instead of accessing values by index, we access them by a key.
     >2. As a fundamental programming paradigm that helps us structure and categorize our code.
   >More about objects in the second half of this class.
-
+--
 #### Part 2: Numbers
 
 Numbers are divided into two classes or objects:
@@ -108,7 +120,7 @@ All numbers in JavaScript are **"double-precision 64-bit format IEEE 754 values"
   ```
 
 In JavaScript, these data points are the same **type** of object—which JavaScript calls *Numbers*--so don't be surprised when `typeof( )` doesn't return 'float' and 'integer.'
-
+--
 
 #### Part 3: Arithmetic Operators
 
@@ -127,10 +139,12 @@ We use operators to work with data in JavaScript. The standard [arithmetic opera
 6 * 2
 => 12
 ```
-
+--
 #### Part 4: Special Number Operators
 
 JavaScript is slightly limited regarding the number of operations it allows you to perform. For example, it doesn’t enable you to easily square a number or cube a number. Fortunately, a special `Math` object with some very useful methods is available.
+
+--
 
 * Taking a number to some `power`? Just use `Math.pow`.
 
@@ -142,6 +156,7 @@ JavaScript is slightly limited regarding the number of operations it allows you 
     Math.pow(2,4)
     => 16
     ```
+
 * Taking a square root
 
     ```javascript
@@ -149,6 +164,7 @@ JavaScript is slightly limited regarding the number of operations it allows you 
     Math.sqrt(4)
     => 2
     ```
+
 * Need a `random` number? Then use `Math.random`.
 
     ```javascript
@@ -172,6 +188,7 @@ JavaScript is slightly limited regarding the number of operations it allows you 
     => 3
     ```
 
+--
 #### Part 5: Strings
 
 Strings are collections of letters and symbols known as *characters*. We use them to deal with words and text in JavaScript. Strings are just another type of **value** in Javascript.
@@ -188,6 +205,7 @@ Strings are collections of letters and symbols known as *characters*. We use the
 
 Variables are used to store data types in a computer’s memory, so that they can be referenced later.
 
+--
 #### Part 1: Always Use Var!
 
 We declare new variables in JavaScript using the [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var "/en/JavaScript/Reference/Statements/var") keyword.
@@ -219,7 +237,7 @@ var myString = "Greetings y'all!"
 ```
 
 Always remember that these variables should always have the `var` keyword and use `camelCase`
-
+--
 #### Part 2: Assignment Operators
 
 Values are assigned using `=`; compound assignment statements, such as `+=` and `-=`, can also be used:
@@ -233,6 +251,7 @@ x += 5
 ```
 
 You can use `++` and `--` to increment and decrement by 1, respectively. These can be used as prefix or postfix operators.
+--
 
 To recap, we have discussed two types of values—or, objects—that store data and offer helpful computation functions.
 
@@ -254,11 +273,12 @@ To recap, we have discussed two types of values—or, objects—that store data 
 ```
 
 ---
+
 <a name="introduction"></a>
 ## Introduction to Arrays (10 min)
 
 You will find that strings and numbers are often not enough for most programming purposes. What is needed are collections of data that we can use efficiently. These are called Arrays.
-
+--
 Arrays are great for:
 
 * Storing data
@@ -272,6 +292,8 @@ In essence, arrays compose a data structure that is similar in concept to a list
   => ['Moe', 'Larry', 'Curly']
   ```
 
+--
+
 Items in an array are stored in sequential order; they are indexed starting at `0` and ending at `length - 1`. JavaScript starts counting at zero, so the first position in the array will be `[0]`, the second position in the array will be `[1]`, and so forth.
 
   ```javascript
@@ -283,6 +305,8 @@ Items in an array are stored in sequential order; they are indexed starting at `
   => 'Curly'
   ```
 
+--
+
 We can even use strings like arrays:
 
   ```javascript
@@ -292,11 +316,15 @@ We can even use strings like arrays:
   //=> 'b'
   friend.length
   ```
+
 ---
+
 <a name="codealong3"></a>
 ## Working with Arrays (15 min)
 
 Using the JavaScript keyword `new` is one way of creating arrays:
+
+--
 
 #### Part 1: Var New
 
@@ -329,9 +357,11 @@ A more convenient notation is to use an array literal:
   => 3
   ```
 
+--
+
 #### Part 2: Length Method
 
-The `length` method works in an interesting way in Javascript. It is always one more than the highest index in the array.
+The `length` property works in an interesting way in Javascript. It is always one more than the highest index in the array.
 
 So `array.length` isn't necessarily the number of items in the array. Consider the following:
 
@@ -343,6 +373,8 @@ So `array.length` isn't necessarily the number of items in the array. Consider t
   ```
 
 **Remember**: the length of the array is one more than the highest index.
+
+--
 
 #### Part 3: Getting Data from an Array
 
@@ -360,7 +392,7 @@ If you query a nonexistent array index, the result will be `undefined`:
 ## Accessing Values in Arrays (25 min)
 
 In this exercise, students will obtain and set array indices, as well as continue practicing with string concatenation. They will be populating two arrays: one with strings, one with numbers. Students will then return these strings and numbers from the arrays in order to create sentences.
-
+--
 #### Part 1: Creating Arrays Using the `new` Keyword and the Array Literal
 
 Create two arrays: one using the `new` keyword; the other using an array literal.
@@ -378,8 +410,8 @@ First array (using `new` keyword)
   ```javascript
   var quantity = [8, 2]
   ```
-
-Note: Explain to the students the differences in array creation (new keyword vs. array literal):
+--
+Explain to the students the differences in array creation (new keyword vs. array literal):
 
 ```javascript
     var a = [];        // these are the same
@@ -399,7 +431,7 @@ Note: Explain to the students the differences in array creation (new keyword vs.
     ```
 
 * Citation: [StackOverflow](http://stackoverflow.com/questions/1094723/what-is-array-literal-notation-in-javascript-and-when-should-you-use-it)
-
+--
 
 #### Part 2: Adding Elements to the Arrays
 
@@ -410,8 +442,6 @@ goods[2] = "beer"
 
 quantity.push(8)
 ```
-
->Note: Explain to the students the differences in adding (or setting) array values. What are the pros/cons of each approach?
 
 #### Part 3: Accessing Elements from Arrays and Concatenating Them With Strings
 
@@ -444,9 +474,9 @@ Arrays come with a number of methods. Here's a list of some popular helpers:
 
 You will likely not remember _every_ method. Explore the [full documentation for array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) and other helper methods provided for particular objects.
 
-
+--
 In this exercise, students will utilize their knowledge of array helper methods in order to decode a secret message.
-
+--
 #### Part 1: Array Creation and the `.push()` Method
 
 ```javascript
@@ -463,6 +493,7 @@ message
 => [ 8, 'r', 'e', 'b', 'm', 'u', 'n', 's', 'i', 'A', 'G', 'K' ]
 
 ```
+--
 
 #### Part 2: `.pop()`, `.shift()`, and `.unshift()`
 
@@ -477,13 +508,15 @@ message.unshift(1)
 => 11
 ```
 
+--
 #### Part 3: Array Reversal Using `.reverse()`
 ```javascript
 message.reverse()
 => [ 'G', 'A', 'i', 's', 'n', 'u', 'm', 'b', 'e', 'r', 1 ]
 ```
 
-> Note: Discuss how the `.reverse()` method mutates the array structure.
+Discuss how the `.reverse()` method mutates the array structure.
+--
 
 #### Part 4: Array `.join()`
 
@@ -501,11 +534,14 @@ message.join(' ')
 => 'G A i s n u m b e r 1'
 
 ```
+
 ---
+
 <a name="codealong6"></a>
 ## Iterating through an Array (25 min)
 
 Iterating through the elements of an array, one at a time, is a very common and useful practice in programming.
+--
 
 We can use a `for` loop to iterate over the elements of an array like this:
 
@@ -523,10 +559,12 @@ for (var i = 2; i < teams.length; i++) {
 	console.log(teams[i]);
 }
 ```
-
+--
 JavaScript arrays have several advanced _iterator methods_.
 
 Many of these methods require a function to be supplied as an argument, and the code in which you write the function will be applied to _each_ item in the array, individually.
+
+--
 
 For example, we can use the `forEach` method instead of a `for` loop to iterate the elements:
 
@@ -546,9 +584,9 @@ Ravens
 Ducks
 undefined
 ```
-
+--
 Do you notice how much clearer this syntax is than that of the `for` loop?
-
+--
 Here are some other iterator methods for you to research and practice with:
 
 - `Array.every()`
@@ -556,20 +594,25 @@ Here are some other iterator methods for you to research and practice with:
 - `Array.filter()`
 - `Array.map()`
 
-
+--
 #### Part 1: Evens and Odds
 
 Create an array--`evens`--and populate it with the even numbers 2 - 10. Create an array--`odds`--and populate it with the odd numbers 1 - 9.
 
+--
 ```javascript
 var evens = []
 evens.push(2,4,6,8,10)
 => 5
 
+--
+
 var odds = []
 odds.push(1,3,5,7,9)
 => 5
 ```
+
+--
 
 #### Part 2: `Array.every( )`
 
@@ -589,6 +632,7 @@ evens.every(function (num) {
 => false
 ```
 
+--
 #### Part 3: `Array.some( )`
 
 The `.some()` method tests whether an element in the array passes the test implemented by the provided function. [[Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)]
@@ -601,6 +645,7 @@ evens.some(function (num) {
 => true
 ```
 
+--
 #### Part 4: `Array.filter( )`
 
 The `.filter()` method creates a new array with all elements that pass the test implemented by the provided function.
@@ -633,6 +678,7 @@ smallNums
 => [1, 3]
 ```
 
+--
 #### Part 5: ‘Array.map( )’
 
 The `.map()` method creates a new array with the results of calling a provided function on every element in this array.
@@ -657,7 +703,9 @@ var timesTen = odds.map(function (num) {
 timesTen
 => [10, 30, 50, 70, 90]
 ```
+
 ---
+
 <a name="lab1"></a>
 ## Arrays: Independent Practice
 

@@ -2,15 +2,10 @@
 
 ## Team
 
-- Producers
-  - Matt Quinn [matt.quinn@generalassemb.ly](matt.quinn@generalassemb.ly)
-  - Christopher Austin [christopher.austin@generalassemb.ly](christopher.austin@generalassemb.ly)
-
-- Instructors
-  - Michael Finneran [mrfinneran@gmail.com](mrfinneran@gmail.com)
-  - Ray Haarstick [ray@relevant.us](ray@relevant.us)
-
-- You
+| Producer |  | Instructor | |
+| --- | :---: |  --- | :---: |
+| Matt Quinn | [matt.quinn@generalassemb.ly](matt.quinn@generalassemb.ly) | Michael Finneran | [mrfinneran@gmail.com](mrfinneran@gmail.com) |
+| Christopher Austin | [christopher.austin@generalassemb.ly](christopher.austin@generalassemb.ly)  | Ray Haarstick | [ray@relevant.us](ray@relevant.us) |
 
 ## Schedule
 

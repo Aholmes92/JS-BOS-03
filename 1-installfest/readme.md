@@ -9,11 +9,24 @@
 
 ---
 
-### Resources
-- How the internet works:  https://www.youtube.com/watch?v=7_LPdttKXPc
-- History of Javascript:  https://www.youtube.com/watch?v=t7_5-XYrkqg
-- Eloquent JS Chapter 0: http://eloquentjavascript.net/00_intro.html
-- Eloquent JS Chapter 1: http://eloquentjavascript.net/01_values.html
+### Agenda
+
+| Timing | Topic |
+| --- | --- |
+| 25 min | Opening & Introductions |
+| 15 min | The language of the web |
+| 15 min | How the internet works |
+| 5 min | Break |
+| 30 min | Install All The Things! |
+| 10 min | Break |
+| 60 min | Exercise: Thinking Like a Programmer |
+| 20 min | Class Information, Final Questions & Exit Tickets |
+
+---
+
+### Slides
+
+[Day 1: Installfest](http://ga-students.github.io/JS-BOS-03/1-installfest/)
 
 ---
 
@@ -30,9 +43,14 @@
 
 ---
 
-### Slides
-
-[Day 1: Installfest](http://ga-students.github.io/JS-BOS-03/1-installfest/)
+### Resources
+- How the internet works:  https://www.youtube.com/watch?v=7_LPdttKXPc
+- History of Javascript:  https://www.youtube.com/watch?v=t7_5-XYrkqg
+- Eloquent JS Chapter 0: http://eloquentjavascript.net/00_intro.html
+- Eloquent JS Chapter 1: http://eloquentjavascript.net/01_values.html
 
 ---
+
+
+
 

@@ -412,6 +412,10 @@ Items in an array are stored in sequential order; they are indexed starting at `
 
 --
 
+<img src="img/array_index_diagram.png">
+
+--
+
 We can even use strings like arrays:
 
   ```javascript

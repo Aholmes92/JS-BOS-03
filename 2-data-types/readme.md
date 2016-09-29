@@ -1,4 +1,4 @@
-## Class 1: InstallFest
+## Class 2: Data Types
 
 ### Goals
 * Describe the concept of a "data type" and how it relates to variables.

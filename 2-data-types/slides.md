@@ -11,6 +11,7 @@
 
 | Timing | Type | Topic |
 | --- | --- | --- |
+| 10 min | [Opening](#opening) |Quiz & Review|
 | 10 min | [Opening](#opening) |What is a Data Type?  |
 | 15 min | [Codealong](#codealong1)  | Data Types  |
 | 15 min | [Codealong](#codealong2)  | Variables and Keywords|
@@ -24,6 +25,15 @@
 
 ---
 
+## Quiz
+
+1.  What is the term for the computer that a user views web pages on?
+2.  What is the term for a computer that hosts files for the internet?
+3.  What computer languages can a web browser read?
+4.  Build the HTML representation of these elements (indent properly) div#page-container > section.left-column + .alert p[data='headline-user-1'] 
+5.  Use jQuery ID selector to change the background color of a div with ID "page-container" to red
+
+---
 <a name="opening"></a>
 ## What is a Data Type? (10 min)
 --

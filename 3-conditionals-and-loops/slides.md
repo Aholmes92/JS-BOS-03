@@ -17,6 +17,9 @@
 | 10 min | [Opening](#opening) | Review |
 | 15 min | [Codealong](#codealong6) | Iterating and For Loops |
 | 10 min | [Codealong](#codealong5) | While & Do-While |
+
+--
+
 | 15 min | [Opening](#opening) | Conditional Statements |
 | 20 min | [Codealong](#codealong1) | Comparison Operators |
 | 15 min | [Codealong](#codealong2)| Truthy and Falsy |
@@ -81,7 +84,6 @@ for (var i = 2; i < teams.length; i++) {
 }
 ```
 --
-```
 How is the following code different from the one above?
 ```javascript
 var teams = ['Bruins', 'Cal Bears', 'Ravens', 'Ducks'];
@@ -418,7 +420,7 @@ Statements intended to be executed after a control flow operation will be groupe
   console.log("roar");
 }
 ```
-
+--
 #### Block Scope
 
 We will talk about scope in later lessons; basically it means a limited area of code that knows about a variable's existence. In the case of **block statements** in JavaScript, no scope is created, unlike in most other languages.
@@ -614,6 +616,8 @@ false || false
 
 Only `false || false` will return `false`
 
+--
+
 The `!` takes a value and returns the opposite Boolean value:
 
 ```javascript
@@ -651,6 +655,7 @@ Further reference: [Mozilla Developer Network article on Logical operators](http
 ## Independent Practice (25 min)
 
 Write a program that outputs results based on users’ age. This exercise draws on if/else statements, Boolean logic, and comparison operators. See the conditions below:
+--
 
 - If you are under 16, you cannot do much outside of going to school
 - If you are 16 or older, you can drive

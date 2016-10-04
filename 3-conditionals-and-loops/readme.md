@@ -1,9 +1,11 @@
 ## Class 3: Conditionals and Loops
 
 ### Goals
-* Describe the concept of a "data type" and how it relates to variables.
-* Declare, assign to, and manipulate data stored in a variable.
-* Create arrays and access values in them.
+* Use if/else conditionals to control program flow based on Boolean (true or false) tests.
+* Use Boolean logic (!, &&, ||) to combine and manipulate conditional tests.
+* Use switch/case conditionals to control program flow based on matching explicit values.
+* Differentiate among true, false, 'truth*y', and 'false-y'.
+* Review loop iteration using for and forEach, and introduce while and do/while loops.
 
 ---
 
@@ -27,7 +29,7 @@
 
 ### Slides
 
-[Day 3: Conditionals and Loops](http://ga-students.github.io/JS-BOS-03/3-conditional-and-loops/)
+[Day 3: Conditionals and Loops](http://ga-students.github.io/JS-BOS-03/3-conditionals-and-loops/)
 
 ---
 
@@ -86,6 +88,7 @@ http://eloquentjavascript.net/05_higher_order.html
 	- http://www.w3schools.com/js/js_conventions.asp
 	- https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
 	- https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
+
 ---
 
 

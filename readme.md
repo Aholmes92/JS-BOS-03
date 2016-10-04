@@ -35,7 +35,7 @@
 | --- | :---: | --- |  --- | :---: |
 | Day 1 | [Installfest](1-installfest/readme.md) || Day 11 | Callbacks and Promises |
 | Day 2 | [Data Types](2-data-types/readme.md) hw|| Day 12 | Advanced APIs |
-| Day 3 | Conditionals and Loops || Day 13 | **Project 2 Lab** |
+| Day 3 | [Conditionals and Loops](3-conditional-and-loops/readme.md) || Day 13 | **Project 2 Lab** |
 | Day 4 | HTML & CSS Review || Day 14 | Prototypical Inheritance|
 | Day 5 | Functions and Scope || Day 15 | Closures and This|
 | Day 6 | **Project 1 Lab** || Day 16 | Intro to Crud and Firebase|

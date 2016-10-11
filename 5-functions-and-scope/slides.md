@@ -539,14 +539,7 @@ Another way of iterating over an array added with ECMAScript 5 is [`forEach()`](
 <a name="conclusion"></a>
 ## Conclusion (5 min)
 
-These are some of the foundational tools you’ll use in many of your applications. You might need to study the exact syntax before it’s committed to your memory, but it's important that you remember these core "control flow" and "loop" concepts, because every programming language you encounter will involve them.
----
-#### Review
-
-Make sure the lesson objectives have been met.
-
-* Be able to explain if/else and switch statements as well as use cases.
-* Differentiate between true, false, 'truthy', and 'falsey'.
+Practice Practice Practice
 
 ---
 #### Homework
@@ -555,7 +548,6 @@ Make sure the lesson objectives have been met.
 - JS Challanges
 - Read and review materials
 
----
 
 ---
 

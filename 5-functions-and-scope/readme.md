@@ -55,11 +55,13 @@
 	- http://eloquentjavascript.net/03_functions.html
 	- http://eloquentjavascript.net/05_higher_order.html
 	- Page 63 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
+	- Practice! https://www.codecademy.com/courses/functions-in-javascript-2-0/0/1
 
 - Scope
 	- http://www.w3schools.com/js/js_scope.asp
 	- Page 92 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
-
+	- https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
+	
 - Hoisting
 	- http://www.w3schools.com/js/js_hoisting.asp
 	- https://developer.mozilla.org/en-US/docs/Glossary/Hoisting

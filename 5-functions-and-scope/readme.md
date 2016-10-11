@@ -31,7 +31,7 @@
 
 ### Slides
 
-[Day 5: Conditionals and Loops](http://ga-students.github.io/JS-BOS-03/5-functions-and-scope/)
+[Day 5: Functions and scope](http://ga-students.github.io/JS-BOS-03/5-functions-and-scope/)
 
 ---
 

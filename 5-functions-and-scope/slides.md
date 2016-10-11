@@ -134,7 +134,7 @@ The parameter is `words`.
 And the statement is `console.log(words);`
 
 And this makes up a basic function declaration!
-
+--
 #### Calling Functions
 
 Calling, or invoking, a function executes the code defined inside this function.
@@ -142,7 +142,7 @@ Calling, or invoking, a function executes the code defined inside this function.
 But defining and calling a function is different. A function will not be called when it's defined.
 
 You call a function by using parenthesis after the function's name `()`:
-
+--
 ```javascript
 function hello () {
   console.log("hello there!")
@@ -152,7 +152,7 @@ hello();
 
 => hello there!
 ```
-
+--
 JavaScript functions are often defined as methods on objects. To call a function as a method:
 
 ```javascript
@@ -160,7 +160,9 @@ console.log("This is a method or function on an object");
 
 prompt("This is a function");
 ```
+
 ---
+
 <a name="lab1"></a>
 ## Rolling Dice: Lab (40 min)
 
@@ -244,6 +246,7 @@ doSomething(argument)
 
 Sometimes we don't want to print to the console or update the DOM; rather, we want to update a variable or even call another function. This requires a `return` statement. When we return something, it ends the function's execution and "spits out" what we are returning. We can then store this returned value in another variable...
 --
+
 ```javascript
 function sum (x, y) {
   return x + y;
@@ -252,10 +255,12 @@ function sum (x, y) {
 var z = sum(3, 4);
 => 7
 ```
+
 --
 ... or pass it to another function:
 
 --
+
 ```javascript
 function sum (x, y) {
   return x + y;
@@ -269,7 +274,9 @@ var num = sum(3, 4)
 => 7
 var numDbl = double(num);
 => 14
+
 --
+
 // This can also be written:
 var num = double(sum(3,4));
 => 14

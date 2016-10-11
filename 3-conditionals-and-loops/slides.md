@@ -1,7 +1,17 @@
 <img src="https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/5225/JS-logo-official.png" style="max-width: 100px; border: none; box-shadow: none" />
 ### Class 3: Conditionals and Loops
 
-* Use if/else conditionals to control program flow based on Boolean (true or false) tests.
+* Use Loops to iterate through data
+* Loops
+  - For loop
+  - While loop
+  - Do while loop
+
+* Conditionals
+  - If statement
+  - Switch statement
+
+Use if/else conditionals to control program flow based on Boolean (true or false) tests.
 * Use Boolean logic (!, &&, ||) to combine and manipulate conditional tests.
 * Use switch/case conditionals to control program flow based on matching explicit values.
 * Differentiate among true, false, 'truth*y', and 'false-y'.

@@ -37,7 +37,7 @@
 | Day 2 | [Data Types](2-data-types/readme.md) hw|| Day 12 | Advanced APIs |
 | Day 3 | [Conditionals and Loops](3-conditionals-and-loops/readme.md)hw || Day 13 | **Project 2 Lab** |
 | Day 4 | HTML & CSS Review || Day 14 | Prototypical Inheritance|
-| Day 5 | Functions and Scope || Day 15 | Closures and This|
+| Day 5 | [Functions and Scope](4-functions-and-scope/readme.md) || Day 15 | Closures and This|
 | Day 6 | **Project 1 Lab** || Day 16 | Intro to Crud and Firebase|
 | Day 7 | Objects and JSON || Day 17 | Deploying Your App |
 | Day 8 | Javascript and DOM || Day 18 |  Instructor Choice|

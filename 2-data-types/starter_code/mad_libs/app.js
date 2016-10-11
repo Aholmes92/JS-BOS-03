@@ -7,4 +7,4 @@ var random2 = Math.floor((Math.random() * startupY.length));
 
 
 // Make the website alert "A start up that is RANDOM, but for RANDOM"
-alert("Entere is here")
+alert("A start up that is " + startupX[random1] + ", but for " + startupY[random2]);

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	
+/*Variables*/
+
+var questionAnswers = [
+  ['Who is the president?', 'Barack Obama'],
+  ['What is the 3rd month of the year?', 'March'],
+  ['What color is the sky?', 'Blue']
+]
+
+var questionsRight = 0, questionsWrong = 0;
+var questionsRightList = [], questionsWrongList = [];
+var answer;
+var i = 0;
+
+while( i < questionAnswers.length){
+   answer = prompt(questionAnswers[i][0]);
+   questionAnswers[i][2] = answer;
+   if (answer === questionAnswers[i][1]) {
+     questionsRight++;
+     questionsRightList[i] = questionAnswers[i][0];
+     alert("Correct");
+   } else {
+     questionsWrong++;
+     questionsWrongList[i] = questionAnswers[i][0];  
+     alert("Incorrect: Answer was " + questionAnswers[i][1]);     
+   }  
+   i++;
+}
+ 
+// for (var i = 0; i < questionAnswers.length; i++){
+//    answer = prompt(questionAnswers[i][0]);
+//    if (answer === questionAnswers[i][1]) {
+//      questionsRight++;
+//      questionsRightList[i] = questionAnswers[i][0];
+//    } else {
+//      questionsWrong++;
+//      questionsWrongList[i] = questionAnswers[i][0];       
+//    }
+// // }
+// alert("You got " + questionsRight + " questions right.\n");
+
+var finalMessage = "You got " + questionsRight + " out of " + questionAnswers.length + " questions right.";
+
+// for (var i = 0; i < questionAnswers.length; i++){
+
+// 	finalMessage += "\nQuestion #" + (i + 1);
+// 	finalMessage += "\n" + questionAnswers[i][0];
+// 	finalMessage += "\nYour Answer: " + questionAnswers[i][2];
+// 	finalMessage += "\nCorrect Answer: " + questionAnswers[i][1];
+// }
+
+alert(finalMessage);
+
+
+</script>
+</body>
+</html>

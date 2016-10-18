@@ -33,36 +33,37 @@
 ### Assignments
 
 * Complete 
-	- Catch up on FizzBuzz, 99 Bottles, and Random Address Generator
-	- JS Functions Challanges https://codepen.io/MicFin/pen/dpZqdE
+	- JSON HW (due Thursday)
+	- Object HW (due Thursday)
 	
 * Read 
-	- Catch up on previous reading
+	- http://eloquentjavascript.net/04_data.html
+	- http://eloquentjavascript.net/06_object.html
 
 ---
 
 ### Resources
-- Functions
-	- http://www.w3schools.com/js/js_functions.asp
-	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+- Objects
+	- http://www.w3schools.com/js/js_objects.asp
+	- http://www.w3schools.com/js/js_object_definition.asp
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 
-- More on Functions
-	- http://eloquentjavascript.net/03_functions.html
-	- http://eloquentjavascript.net/05_higher_order.html
-	- Page 63 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
-	- Practice! https://www.codecademy.com/courses/functions-in-javascript-2-0/0/1
+- Object Constructors
+	- https://css-tricks.com/understanding-javascript-constructors/
+	- https://blog.pivotal.io/labs/labs/javascript-constructors-prototypes-and-the-new-keyword
 
-- Scope
-	- http://www.w3schools.com/js/js_scope.asp
-	- Page 92 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
-	- https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
-	- https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures
-	
-- Hoisting
-	- http://www.w3schools.com/js/js_hoisting.asp
-	- https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
-	- http://adripofjavascript.com/blog/drips/variable-and-function-hoisting
-	- https://stackoverflow.com/questions/15005098/why-does-javascript-hoist-variables
+- Objects In Depth Reading
+	- http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
+
+- JS Pass by Object vs Pass by Reference vs Call by Sharing
+	- https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
+	- https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
+	- https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_sharing
+
+- Javascript Objects for Namespacing
+	- https://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/
+	- https://addyosmani.com/blog/essential-js-namespacing/
+
 
 
 

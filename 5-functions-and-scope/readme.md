@@ -57,6 +57,11 @@
 	- Page 63 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 	- Practice! https://www.codecademy.com/courses/functions-in-javascript-2-0/0/1
 
+- Function Expression vs Function Declaration
+	- https://stackoverflow.com/questions/1013385/what-is-the-difference-between-a-function-expression-vs-declaration-in-javascrip
+	- https://www.sitepoint.com/function-expressions-vs-declarations/
+	- https://www.quora.com/When-would-I-use-a-function-expression-vs-a-function-declaration-in-JavaScript
+	
 - Scope
 	- http://www.w3schools.com/js/js_scope.asp
 	- Page 92 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf

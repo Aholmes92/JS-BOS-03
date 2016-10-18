@@ -81,6 +81,7 @@ var objectName = {
 ```
 --
 Make a user object that has a name, age and is alive?;
+
 ```js
 var user = {
   "name": "John Doe",
@@ -90,6 +91,7 @@ var user = {
 
 user["name"]; // John Doe
 user["is alive?"]; // false
+```
 --
 Changing a value 
 ```js

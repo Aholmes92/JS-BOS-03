@@ -60,6 +60,17 @@
 	- https://stackoverflow.com/questions/13104494/does-javascript-pass-by-reference
 	- https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_sharing
 
+- JS NEW Keyword
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
+	- https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript
+	- https://blog.pivotal.io/labs/labs/javascript-constructors-prototypes-and-the-new-keyword
+	- https://blog.liip.ch/archive/2014/10/09/why-i-dont-use-the-javascript-new-keyword.html
+
+- JS THIS Keyword
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+	- http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+	- https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work
+	
 - Javascript Objects for Namespacing
 	- https://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/
 	- https://addyosmani.com/blog/essential-js-namespacing/

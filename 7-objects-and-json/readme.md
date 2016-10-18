@@ -53,17 +53,22 @@
 	- https://blog.pivotal.io/labs/labs/javascript-constructors-prototypes-and-the-new-keyword
 
 - Objects In Depth Reading
-	- http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
+	- page 15-60 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 
 - JS Pass by Object vs Pass by Reference vs Call by Sharing
 	- https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
-	- https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
+	- https://stackoverflow.com/questions/13104494/does-javascript-pass-by-reference
 	- https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_sharing
 
 - Javascript Objects for Namespacing
 	- https://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/
 	- https://addyosmani.com/blog/essential-js-namespacing/
 
+- JSON
+	- http://www.w3schools.com/js/js_json_intro.asp
+	- http://www.w3schools.com/js/js_json.asp
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+	- https://stackoverflow.com/questions/8294088/javascript-object-vs-json
 
 
 

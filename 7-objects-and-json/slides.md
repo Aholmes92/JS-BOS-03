@@ -357,6 +357,27 @@ var person1 = new Person("John Doe", 150);
 var person2 = new Person("Jane Smith", 100);
 ```
 
+--
+New Keyword
+```
+var ourString = new String("Mike");
+var ourNumber = new Number(1);
+var ourArray = new Array(1, 2, "cat", 10);
+var ourObject = new Object({name: "John", age: 100});
+```
+
+--
+```
+var Car = function(param1, param2){
+  this.brand = param1,
+  this.make = param2,
+  this.wheels = 4,
+  this.canFly = false
+}
+
+var car1 = new Car("Ford", "Explorer");
+var car1 = new Car("Ford", "Explorer");
+```
 ---
 
 <a name=""></a>

@@ -1,37 +1,32 @@
-## Class 5: Functions and Scope
+## Class 7: Objects and JSON
 
 ### Goals
-* Why you would use a function 
-* How to define and call a function
-* Describe how parameters and arguments relate to functions
-* Return a value from a function using the return keyword
-* Define and call functions with argument-dependent return values
-* Define and call functions defined in terms of other functions
-* Determine the scope of local and global variables
-* Create a program that hoists variables
+* Identify likely objects, attributes, and methods in real-world scenarios
+* Create javascript objects with methods and attributes
+* Write a constructor for a JavaScript object
+* Implement and interface with JSON data
 
 ---
 
 ### Agenda
 
+
 | Timing | Type | Topic |
 | --- | --- | --- |
-| 10 min | [Opening](#opening) | Quiz |
-| 10 min | [Opening](#opening) | Introduction to Functions  |
-| 20 min | [Codealong](#codealong1) | Function Declaration |
-| 30 min | [Lab](#lab1) | Rolling Dice |
-| 25 min | [Codealong](#codealong2) | Parameters |
-| 25 min | [Codealong](#codealong3) |  The Return Statement |
-| 20 min | [Introduction](#introduction1) | Introduction to Scope |
-| 25 min | [Codealong](#codealong4) | Local and Global Scope Usage |
-| 10 min | [Codealong](#codealong4) | Anonymous Functions |
-| 5 min | [Conclusion](#conclusion) | Final Questions & Exit Tickets |
+| 10 min |[Opening](#opening) | Introduction to Objects |
+| 30 min |[Codealong](#codealong1) | Object Properties |
+| 30 min |[Discussion/Independent Practice](#discussion)  | Real World Scenarios & Objects |
+| 30 min |[Codealong](#codealong2)  | Coding Our Objects |
+| 25 min |[Lab](#lab1) | Monkey Exercise  |
+| 20 min |[Introduction](#introduction1)  | Introduction to JSON  |
+| 30 min |[Lab](#lab2) | JSON: Independent Practice |
+| 5 min |[Conclusion](#conclusion) | Final Questions & Exit Tickets |
 
 ---
 
 ### Slides
 
-[Day 5: Functions and scope](http://ga-students.github.io/JS-BOS-03/5-functions-and-scope/)
+[Day 7: Objects and JSON](http://ga-students.github.io/JS-BOS-03/7-objects-and-json/)
 
 ---
 

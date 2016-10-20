@@ -15,11 +15,17 @@
 
 | Timing | Type | Topic |
 | --- | --- | --- |
+| 10 min | [Codealong](#codealong) | HW Review |
+| 5 min | [Codealong](#codealong) | Assignment Review |
+| 30 min | [Codealong](#codealong) | Object Review |
+| 30 min | [Opening](#opening) | Quiz |
 | 10 min | [Opening](#opening) | The Document Object Model (DOM) |
 | 30 min | [Codealong](#codealong1) | Working the DOM |
-| 25 min | [Lab](#lab1) | DOM Manipulation: Independent Practice |
-| 50 min | [Codealong](#codealong2) | Augmenting JavaScript with jQuery |
-| 30 min | [Lab](#lab2)| Create a Checklist: Independent Practice |
+| 20 min | [Lab](#lab1) | DOM Manipulation: Independent Practice |
+| 10 min | [Lab](#lab2)| Create a Light Switch |
+| 10 min | [Lab](#lab2)| Create a Stop Light |
+| 10 min | [Lab](#lab2)| Create a Calculator |
+| 10 min | [Lab](#lab2)| Create a Color Changer |
 | 5 min | [Conclusion](#conclusion) | Final Questions & Exit Tickets  |
 
 ---
@@ -39,10 +45,11 @@
 	- http://eloquentjavascript.net/12_browser.html
 	- http://eloquentjavascript.net/13_dom.html
 	- http://eloquentjavascript.net/14_event.html
+	
 ---
 
 ### Resources
-- DOM
+- DOM Basics
 	- http://www.w3schools.com/js/js_htmldom.asp
 	- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction	
 	- https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
@@ -52,7 +59,7 @@
 	- https://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134
 	- http://callmenick.com/post/basics-javascript-dom-manipulation
 
-- Cheat Sheets
+- DOM Cheat Sheets
 	- https://plainjs.com/javascript/
 	- http://overapi.com/javascript
 	- http://overapi.com/html-dom

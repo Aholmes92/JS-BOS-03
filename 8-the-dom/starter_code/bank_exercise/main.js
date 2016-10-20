@@ -19,10 +19,10 @@ var Account = function(name, balance) {
 var Bank = {
     accounts: [],
     enroll_new_account: function(name, balance) {
-    var new_account = new Account(name, balance);
-    this.accounts.push(new_account);
-    return new_account;
-  },
+      var new_account = new Account(name, balance);
+      this.accounts.push(new_account);
+      return new_account;
+    },
 
     total_balance: function() {
       var balances = this.accounts.map( function(account) { return account.balance });

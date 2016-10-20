@@ -53,8 +53,8 @@
 
 ## Quiz:  (30 min)
 
-- Obect Literals
-- Object Constructors
+- Obects
+- Scope
 
 ---
 

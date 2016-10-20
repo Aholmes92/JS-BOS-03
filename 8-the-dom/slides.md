@@ -84,11 +84,13 @@ When reading these methods, try to get a sense of what they're trying to accompl
 Each of these methods returns an element from the DOM. What can we do with an [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)? Let's write a few suggestions down on the board.
 
 ---
+
 <a name = "codealong1"></a>
 ## Working with the DOM: Codealong (30 minutes)
 We can manipulate the DOM in 3 different ways:
 
 1.  Inline JavaScript (least desirable).
+
 ```html
   <body onload="window.alert('welcome to my app!');">
 ```
@@ -97,6 +99,7 @@ We can manipulate the DOM in 3 different ways:
 
 
 2. Include script tags in our HTML documents. This technique is used primarily when generating content/properties through a back-end language. Try to avoid this if not necessary.
+
 ```html
   <html>
     <head>
@@ -110,7 +113,9 @@ We can manipulate the DOM in 3 different ways:
 ```
 
 --
+
 3. Including the JavaScript file [at the footer] of our site/app.
+
 --
 
 **It is important to get used to falling in the habit of only doing DOM related manipulation only once our content has loaded.** This is required, as we can't manipulate something that has not yet been drawn in the browser. In plain JavaScript, we can usually wrap this in a 'window.onload' function.
@@ -231,24 +236,21 @@ is the empty string.)
 
 <a name = "lab1"></a>
 ## DOM Manipulation: Independent Practice (10 minutes)
- Create a Light Switch 
-| 10 min | [Lab](#lab2)| Create a Stop Light |
-| 10 min | [Lab](#lab2)| Create a Calculator |
-| 10 min | [Lab](#lab2)| Create a Color Changer |
+#Create a Light Switch 
 
 
 ---
 
 <a name = "lab1"></a>
 ## DOM Manipulation: Independent Practice (10 minutes)
- Create a Calculator
+#Create a Calculator
 
 ---
 
 
 <a name = "lab1"></a>
 ## DOM Manipulation: Independent Practice (10 minutes)
- Create a Color Changer
+#Create a Color Changer
  
 ---
 

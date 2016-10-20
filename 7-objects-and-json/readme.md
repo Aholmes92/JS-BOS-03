@@ -60,6 +60,10 @@
 	- https://stackoverflow.com/questions/13104494/does-javascript-pass-by-reference
 	- https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_sharing
 
+- JS Immutable and Mutable
+	- https://www.sitepoint.com/immutability-javascript/
+	- https://stackoverflow.com/questions/16115512/understanding-javascript-immutable-variable
+
 - JS NEW Keyword
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
 	- https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript

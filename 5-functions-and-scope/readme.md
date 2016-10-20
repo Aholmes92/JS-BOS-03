@@ -61,12 +61,14 @@
 	- https://stackoverflow.com/questions/1013385/what-is-the-difference-between-a-function-expression-vs-declaration-in-javascrip
 	- https://www.sitepoint.com/function-expressions-vs-declarations/
 	- https://www.quora.com/When-would-I-use-a-function-expression-vs-a-function-declaration-in-JavaScript
+	- https://kangax.github.io/nfe/
 	
 - Scope
 	- http://www.w3schools.com/js/js_scope.asp
 	- Page 92 http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
 	- https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
 	- https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures
+	- http://madebyknight.com/javascript-scope/
 	
 - Hoisting
 	- http://www.w3schools.com/js/js_hoisting.asp

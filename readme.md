@@ -41,7 +41,7 @@
 | Day 6 | **Project 1 Lab** || Day 16 | Intro to Crud and Firebase|
 | Day 7 | [Objects and JSON](7-objects-and-json/readme.md) hw || Day 17 | Deploying Your App |
 | Day 8 | [Javascript and the Dom](8-the-dom/readme.md)  || Day 18 |  Instructor Choice|
-| Day 9 | jQuery || Day 19 | **Final Project Lab**|
+| Day 9 | [jQuery](9-jquery/readme.md) || Day 19 | **Final Project Lab**|
 | Day 10 | AJAX and APIs || Day 20| **Final Project**|
 
 ## Graduation Requirements

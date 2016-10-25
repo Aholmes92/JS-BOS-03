@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table id="people-table" style="width:50%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+    <th>Species</th>
+    <th>Legs</th>
+    <th>Arms</th>
+    <th>Eye Color</th>
+    <th>Alive?</th>
+    <th>Can Walk?</th>
+  </tr>
+</table>
+<script type="text/javascript">
+var Person = function(firstName, lastName, age, eyeColor){
+     this.firstName = firstName,
+     this.lastName = lastName,
+     this.age = age,
+     this.eyeColor = eyeColor,
+     this.species = "Human",
+     this.legs = 2,
+     this.arms = 2,
+     this.isAlive = function(){
+          if (this.age < 150){
+               return true;
+          } else {
+               return false;
+          } 
+     }
+     this.canWalk= function(){
+          if (this.legs >= 1){
+               return true;
+          } else {
+               return false;
+          } 
+     }
+};
+
+var person1 = new Person("John", "Doe", 150, "Blue");
+var person2 = new Person("Jane", "Jackson", 200, "Green");
+var person3 = new Person("Steve", "Murphy", 300, "Blue");
+var person4 = new Person("Susan", "Chan", 350, "Brown");
+var person5 = new Person("Abby", "Smith", 50, "Grey");
+var person6 = new Person("Chris", "Mourning", 25, "Brown");
+
+var people = [person1, person2, person3, person4, person5, person6];
+
+var personRowsHtml = "";
+
+for (var i = 0; i < people.length; i++){
+     personRowsHtml +=  "<tr>" + 
+                                "<td>"+ people[i].firstName + "</td>" +
+                                "<td>"+ people[i].lastName + "</td>" + 
+                                "<td>"+ people[i].age + "</td>" + 
+                                "<td>"+ people[i].species + "</td>" + 
+                                "<td>"+ people[i].legs + "</td>" + 
+                                "<td>"+ people[i].arms + "</td>" + 
+                                "<td>"+ people[i].eyeColor + "</td>" +
+                                "<td>"+ people[i].isAlive() + "</td>" +
+                                "<td>"+ people[i].canWalk() + "</td>" +
+                            "</tr>";
+}
+document.getElementById("people-table").innerHTML += personRowsHtml;
+</script>
+</body>
+</html>

@@ -74,7 +74,8 @@
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 	- http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 	- https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work
-	
+	- https://stackoverflow.com/questions/133973/how-does-this-keyword-work-within-a-function
+
 - Javascript Objects for Namespacing
 	- https://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/
 	- https://addyosmani.com/blog/essential-js-namespacing/

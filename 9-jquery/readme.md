@@ -78,6 +78,11 @@
 	- https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing
 	- https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing
 
+- Do you need jQuery?
+	- http://vanilla-js.com/
+	- http://youmightnotneedjquery.com/
+	- https://github.com/oneuijs/You-Dont-Need-jQuery
+	- https://plainjs.com/
 
 
 

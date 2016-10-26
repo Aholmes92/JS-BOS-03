@@ -88,6 +88,7 @@ http://eloquentjavascript.net/05_higher_order.html
 	- http://www.w3schools.com/js/js_conventions.asp
 	- https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
 	- https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
+	- https://shichuan.github.io/javascript-patterns/
 
 ---
 

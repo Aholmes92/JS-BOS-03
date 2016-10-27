@@ -41,7 +41,11 @@
 	- http://jquery-part2.codeschool.com/levels/1/challenges/1
 
 * Read 
-	- 
+  - http://eloquentjavascript.net/05_higher_order.html
+  - http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/
+  - https://www.impressivewebs.com/callback-functions-javascript/
+  - http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+  - https://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/
 	
 ---
 

@@ -57,7 +57,7 @@ API = Application Programming Interface
 - set of rules/instructions for interating with a piece of software
 - middleman; allows idfferent pieces of software to "talk"
 
-<img src="/images/api.png">
+![API](images/api.png)
 
 --
 
@@ -74,7 +74,8 @@ Let's take a few scenarios where we want to pull data from an external API:
 Given the increase in the number of devices and platforms, [Service Oriented Architectures (SOA)](https://en.wikipedia.org/wiki/Service-oriented_architecture) have becoming increasingly prevalent and are soon becoming best practice. SOAs allow us to build one backend/database to share across all of these platforms. This means that our applications will not only deal with external APIs, but also rely on these services for our core data.
 --
 
-#API: How We Will Use Them
+#API
+How We Will Use Them
 - JSD will focus on <u>web-based</u> API's (web services)
 - Use HTTP to request/receive structured data from endpoints on a server
 - Endpoints are addresses (URL's) that will return data (JSON) instead of markup (HTML):
@@ -105,7 +106,10 @@ Because our pages will be fully or partially rendered on the client side after w
     - Wrong authentication information
     - User loses connection
     - Request URL not found
-- [Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer) is the most common architecture style for passing information to and from these API endpoints.
+
+--
+
+[Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer) is the most common architecture style for passing information to and from these API endpoints.
 
 --
 
@@ -119,7 +123,11 @@ HTTP: Hypertext Transfer Protocol
 
 HTTP is a protocol - a system of rules - that determines how web pages (see:'hypertext') get sent (see:'transferred') from one place to another. Among other things, it defines the format of the messages passed between **HTTP clients** and **HTTP servers**.
 
+--
+
 ![Web Architecture](./images/webserver_to_rails_setup.jpeg "Web Architecture")
+
+--
 
 Since the web is a service, it works through a combination of **clients which _make_ requests** and **servers (which _receive_ requests)**.
 
@@ -156,6 +164,8 @@ Often Web Servers are just the middleman, passing HTTP Request and Responses bet
 
 Are programs built by a developer, sometimes using a framework like Rails or Express. These programs plug into a web server, process the **HTTP requests** that the server receives, and generate **HTTP Responses**.
 
+--
+
 ![HTTP Request and Response](images/http_req_resp.gif)
 
 --
@@ -189,10 +199,16 @@ Lost? Here's the play-by-play.
 
 Lets explore HTTP resources. We'll start by looking at HTTP requests and responses using the Chrome Inspector.
 
+--
+
 ![HTTP Request and Response](./images/http_request_response.jpeg "HTTP Request and Response")
+
+--
 
 * In Chrome, open up Chrome Inspector (*command + option + 'i', or ctrl + click and select 'inspect element'*).
 * Select the Network tab. It should look something like this:
+
+--
 
 ![Chrome Inspector](images/chrome_inspector.png)
 

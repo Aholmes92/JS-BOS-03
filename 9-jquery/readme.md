@@ -55,7 +55,8 @@
 	- http://www.w3schools.com/jquery/
 	- https://learn.jquery.com/events/introduction-to-events/
 	- https://learn.jquery.com/events/handling-events/
-
+	- http://gregfranko.com/jquery-best-practices/
+	
 - jQuery Cheat Sheets
 	- https://oscarotero.com/jquery/
 

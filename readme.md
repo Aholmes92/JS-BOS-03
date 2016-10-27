@@ -42,7 +42,7 @@
 | Day 7 | [Objects and JSON](7-objects-and-json/readme.md) hw || Day 17 | Deploying Your App |
 | Day 8 | [Javascript and the Dom](8-the-dom/readme.md)  || Day 18 |  Instructor Choice|
 | Day 9 | [jQuery](9-jquery/readme.md) || Day 19 | **Final Project Lab**|
-| Day 10 | AJAX and APIs[AJAX and APIs](10-ajax-and-apis/readme.md) || Day 20| **Final Project**|
+| Day 10 | [AJAX and APIs](10-ajax-and-apis/readme.md) || Day 20| **Final Project**|
 
 ## Graduation Requirements
 In order to successfully complete JSD, students must:

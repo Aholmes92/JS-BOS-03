@@ -50,7 +50,8 @@
 - Functions
 	- http://www.w3schools.com/js/js_functions.asp
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
-
+	- http://alistapart.com/article/making-your-javascript-pure
+	
 - More on Functions
 	- http://eloquentjavascript.net/03_functions.html
 	- http://eloquentjavascript.net/05_higher_order.html

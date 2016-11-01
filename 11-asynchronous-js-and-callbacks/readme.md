@@ -41,8 +41,10 @@
 		- http://reactivex.io/learnrx/
 		
 * Watch
-	- Javascript call stack https://www.youtube.com/watch?v=8aGhZQkoFbQ
-
+	- Javascript call stack 
+		- https://www.youtube.com/watch?v=8aGhZQkoFbQ
+	- JavaScript VM internals, EventLoop, Async and ScopeChains 
+		- https://www.youtube.com/watch?v=QyUFheng6J0
 	
 ---
 
@@ -51,6 +53,7 @@
 
 - Javascript Call Stack and Event Loop 
 	- https://www.youtube.com/watch?v=8aGhZQkoFbQ
+	- https://www.youtube.com/watch?v=QyUFheng6J0
 	- https://egghead.io/lessons/javascript-call-stack
 	- http://latentflip.com/loupe/
 
@@ -61,8 +64,7 @@
 
 - Function as First Class Objects
 	- http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/
-	- https://www.airpair.com/javascript/posts/catching-up-with-javascript-higher-order-functions
-	- https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056#.ibzx3wzc1
+	- https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object
 
 - Callbacks
   - https://www.impressivewebs.com/callback-functions-javascript/

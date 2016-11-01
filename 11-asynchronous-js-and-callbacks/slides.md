@@ -45,11 +45,14 @@ As our programs start relying on user input/behavior and data that might not be 
 - We have listened for click and mouse events that execute certain code when that event is complete.
 - We have waited for a return from an AJAX call, and we have executed code for success and error scenarios.
 
+--
 Although we have used asynchronous programming in our code, we have not discussed _how_ this is all happening. Before we can truly understand how asynchronous programming works in JavaScript, we need to take a deeper look at functions and scope.
 
 ---
 <a name = "recap"></a>
 ## Anonymous Functions and Functions as First-Class Objects: Recap (15 min)
+
+--
 
 We have worked with numerous scenarios where we have run a block of code after a user has performed an action. Take the following scenario from our DOM and jQuery continued lesson:
 
@@ -60,6 +63,8 @@ We have worked with numerous scenarios where we have run a block of code after a
     ...
   });
 ```
+
+--
 
 Taking a close look at the jQuery `on()` method, we notice two very important overlooked concepts:
 
@@ -77,10 +82,12 @@ Functions as first-class objects, along with the related concept of closures, is
 In the above example we saw a function being passed to the jQuery `.on()` method, but JavaScript also has a plethora of built functions that allow us to pass functions as parameters. Let's take a look at the setTimeout function:
 
 ```js
+// example
   setTimeout( function(){
     console.log("Hello world");
   }, 1000 );
 
+// example 
   [1,2,3].forEach(function(item){
      console.log(item)
   })
@@ -202,6 +209,8 @@ By this point we have seen various examples of functions being passed as callbac
 
 The function being passed into `setTimeout()` above is called an **anonymous function expression** because it is not named in any way -- it is not a function expression that got assigned to a variable name, and neither is it a function that got its name in a function declaration.
 
+--
+
 Note that you don't have to pass anonymous functions as callbacks in cases like this -- you can pass named functions as well, no matter how they got their names:
 
 ```js
@@ -221,7 +230,7 @@ Note that you don't have to pass anonymous functions as callbacks in cases like 
 
 --
 
-Note: Anonymous functions are great, but they may give you some trouble when debugging, if you're looking at a stack trace and it shows a big column of unnamed functions. To get around this you can name them as shown above, or you can use a third way to give them a name which will show up in debugging, called a "named function expression":
+Anonymous functions are great, but they may give you some trouble when debugging, if you're looking at a stack trace and it shows a big column of unnamed functions. To get around this you can name them as shown above, or you can use a third way to give them a name which will show up in debugging, called a "named function expression":
 
 ```js
   setTimeout(function timer(){
@@ -297,7 +306,6 @@ Callbacks and closures are the bread and butter of asynchronous programming. Loo
 
 Callbacks, closures, and IIFEs allow us to better organize our code for each scenario, as well as make our functions significantly more dynamic.
 
-Make sure class objectives have been met.
 
 ---
 
@@ -310,7 +318,10 @@ Make sure class objectives have been met.
     - http://reactivex.io/learnrx/
     
 * Watch
-  - Javascript call stack https://www.youtube.com/watch?v=8aGhZQkoFbQ
+  - Javascript call stack 
+    - https://www.youtube.com/watch?v=8aGhZQkoFbQ
+  - JavaScript VM internals, EventLoop, Async and ScopeChains 
+    - https://www.youtube.com/watch?v=QyUFheng6J0
 
 
 ---

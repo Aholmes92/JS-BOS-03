@@ -61,6 +61,8 @@
 
 - Function as First Class Objects
 	- http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/
+	- https://www.airpair.com/javascript/posts/catching-up-with-javascript-higher-order-functions
+	- https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056#.ibzx3wzc1
 
 - Callbacks
   - https://www.impressivewebs.com/callback-functions-javascript/

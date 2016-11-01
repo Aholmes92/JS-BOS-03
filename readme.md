@@ -33,7 +33,7 @@
 
 | Class | Lesson |  | Class | Lesson |
 | --- | :---: | --- |  --- | :---: |
-| Day 1 | [Installfest](1-installfest/readme.md) || Day 11 | Callbacks and Promises |
+| Day 1 | [Installfest](1-installfest/readme.md) || Day 11 | [Asynchronous JS and Callbacks](11-asynchronous-js-and-callbacks/readme.md) |
 | Day 2 | [Data Types](2-data-types/readme.md) hw|| Day 12 | Advanced APIs |
 | Day 3 | [Conditionals and Loops](3-conditionals-and-loops/readme.md) hw || Day 13 | **Project 2 Lab** |
 | Day 4 | HTML & CSS Review || Day 14 | Prototypical Inheritance|
@@ -42,7 +42,7 @@
 | Day 7 | [Objects and JSON](7-objects-and-json/readme.md) hw || Day 17 | Deploying Your App |
 | Day 8 | [Javascript and the Dom](8-the-dom/readme.md)  || Day 18 |  Instructor Choice|
 | Day 9 | [jQuery](9-jquery/readme.md) || Day 19 | **Final Project Lab**|
-| Day 10 | [AJAX and APIs](10-ajax-and-apis/readme.md) || Day 20| **Final Project**|
+| Day 10 | [AJAX and APIs](10-ajax-and-apis/readme.md) hw || Day 20| **Final Project**|
 
 ## Graduation Requirements
 In order to successfully complete JSD, students must:

@@ -6,9 +6,6 @@
 * Implement the module pattern in their code.
 
 ---
-
-### Agenda
-
 | Timing | Type | Topic |
 | --- | --- | --- |
 | 5 min | [Opening](#opening) | Introduction to Closures and Context |
@@ -222,6 +219,8 @@ Let's say `someFunc()` declares a variable `bar`:
        ⋮
 ```
 
+--
+
 Given how nesting scope works, it's possible for an inner scope within
 `someFunc()` to access `bar`. In this example, let's say `zip()` accesses
 `bar`:
@@ -392,6 +391,8 @@ The CSS is all setup for you in the start index.html, but you will have to add:
 ## Closure Brain Teaser: Independent Practice (25 mins)
 
 As mentioned earlier, the ability for an inner function to reference an outer function variable can be dubious if that variable updates. Take a look at the following code.
+
+--
 
 ```js
 function queueCreator(waitList){
@@ -721,6 +722,8 @@ $('.button').click(function() {
 
 Pretty straightforward stuff. `bind` is different than `call` and `apply` in the sense that it doesn't set the context of a function, but rather `bind` creates a whole new function with the context you supply it.
 
+--
+
 ```js
 var user = {
   firstName: 'Chelsea',
@@ -729,8 +732,6 @@ var user = {
     console.log(this.firstName, this.lastName)
   }
 }
-
---
 
 // declare a new variable whose value is the user.showFullName function with a context set to user
 var contextSetUser = user.showFullName.bind(user)
@@ -799,13 +800,14 @@ Review class objectives and the following questions:
 ## Homework
 
 * Complete 
-  - AJAX practice 
-    - http://jquery-part2.codeschool.com/levels/1/challenges/1
   - Write your own functions for map, filter, concatAll, reduce, zip 
     - http://reactivex.io/learnrx/
-    
-* Watch
- 
+  - Review Bank and RPS examples
+
+* Watch and Read
+  - Material from this week's class
+  - check out some JS patterns you can build now
+    - https://www.safaribooksonline.com/library/view/learning-javascript-design/9781449334840/
 
 
 ---

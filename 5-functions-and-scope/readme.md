@@ -74,6 +74,7 @@
 - Hoisting
 	- http://www.w3schools.com/js/js_hoisting.asp
 	- https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+	- http://cliffordfajardo.com/2015/how-does-hoisting-work-in-javascript/
 	- http://adripofjavascript.com/blog/drips/variable-and-function-hoisting
 	- https://stackoverflow.com/questions/15005098/why-does-javascript-hoist-variables
 

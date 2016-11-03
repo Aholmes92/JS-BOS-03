@@ -32,7 +32,7 @@
 
 ### Slides
 
-[Day 12: Closures and this](http://ga-students.github.io/JS-BOS-03/11-asynchronous-js-and-callbacks/)
+[Day 12: Closures and this](http://ga-students.github.io/JS-BOS-03/12-closures-and-this/)
 
 ---
 
@@ -74,7 +74,7 @@
 	- http://adripofjavascript.com/blog/drips/variable-and-function-hoisting
 	- https://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting/
 	- https://stackoverflow.com/questions/6349232/whats-the-difference-between-a-global-var-and-a-window-variable-in-javascript
-
+	
 - apply(), call(), bind()
 	- http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
 	- https://alexperry.io/personal/2016/04/03/How-to-use-apply-bind-and-call.html

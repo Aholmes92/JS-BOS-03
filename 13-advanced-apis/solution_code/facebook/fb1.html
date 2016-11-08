@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Facebook Login JavaScript Example</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/fb.css">
+</head>
+
+<body>
+
+  <!--
+    Below we include the Login Button social plugin. This button uses
+    the JavaScript SDK to present a graphical Login button that triggers
+    the FB.login() function when clicked.
+  -->
+
+  <div class="fb-login-button" data-max-rows="5" data-size="xlarge" data-show-faces="true" data-auto-logout-link="true" onlogin="logInUser();" ></div>
+
+
+  <!-- start padding container -->
+  <div class="wrap">
+    <div id="tinderslide">
+        <ul>
+        </ul>
+    </div> 
+    <!-- end jtinder container -->
+  </div>
+  <!-- end padding container -->
+
+  <!-- jTinder trigger by buttons  -->
+    <div class="actions">
+      <a href="#" class="dislike"><i></i></a>
+      <a href="#" class="like"><i></i></a>
+  </div>
+
+  <!-- jTinder status text  -->
+    <div id="status"></div>
+
+
+
+
+<!-- jQuery lib -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+
+<!-- transform2d lib -->
+<script type="text/javascript" src="js/jquery.transform2d.js"></script>
+
+<!-- jTinder lib -->
+<script type="text/javascript" src="js/jquery.jTinder.js"></script>
+
+<!-- Main JS -->
+<script type="text/javascript" src="js/main2.js"></script>
+
+
+
+</body>
+</html>

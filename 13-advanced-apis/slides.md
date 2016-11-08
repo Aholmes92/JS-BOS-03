@@ -61,14 +61,15 @@ Here are our goals
 ## 1.  Install Node
 
 Let's install Node which is a web server written in javascript that we can run on our computer.
---
+
+---
 
 ## 2.  Sign up as Facebook Developer
 
 <a href="https://developers.facebook.com/apps/1395272264081262/settings/">https://developers.facebook.com/apps/1395272264081262/settings/</a>
 
 
---
+---
 
 ## 3.  Find the Facebook API documentation
 
@@ -99,7 +100,8 @@ Docs specific to login
 
 Where do we start?
 
---
+---
+
 ## 4.  Learn how to use the Facebook API to let a user log in
 
 Start here :) 

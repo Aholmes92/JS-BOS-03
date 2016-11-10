@@ -35,8 +35,8 @@
 | --- | :---: | --- |  --- | :---: |
 | Day 1 | [Installfest](1-installfest/readme.md) || Day 11 | [Asynchronous JS and Callbacks](11-asynchronous-js-and-callbacks/readme.md) |
 | Day 2 | [Data Types](2-data-types/readme.md) hw|| Day 12 | [Closures and This](12-closures-and-this/readme.md)  Closures and This |
-| Day 3 | [Conditionals and Loops](3-conditionals-and-loops/readme.md) hw || Day 13 | Advanced APIs|
-| Day 4 | HTML & CSS Review || Day 14 | **Project 2 Lab**  |
+| Day 3 | [Conditionals and Loops](3-conditionals-and-loops/readme.md) hw || Day 13 | [Advanced APIs](13-advanced-apis/readme.md)|
+| Day 4 | HTML & CSS Review || Day 14 | [More APIs](14-more-apis/readme.md)  |
 | Day 5 | [Functions and Scope](5-functions-and-scope/readme.md) || Day 15 | Prototypical Inheritance|
 | Day 6 | **Project 1 Lab** || Day 16 | Intro to Crud and Firebase|
 | Day 7 | [Objects and JSON](7-objects-and-json/readme.md) hw || Day 17 | Deploying Your App |

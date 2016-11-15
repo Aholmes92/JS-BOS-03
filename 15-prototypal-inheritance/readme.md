@@ -33,7 +33,7 @@
 
 ### Slides
 
-[Day 14: More APIs](http://ga-students.github.io/JS-BOS-03/14-more-apis/)
+[Day 15: Prototypal Inheritance](http://ga-students.github.io/JS-BOS-03/15-prototypal-inheritance/)
 
 ---
 

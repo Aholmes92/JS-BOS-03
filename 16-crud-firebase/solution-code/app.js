@@ -1,11 +1,13 @@
   // Initialize Firebase
-  var config = {
-    apiKey: '<your-api-key>',
-    authDomain: '<your-auth-domain>',
-    databaseURL: 'https://js-dev-test.firebaseio.com',
-    storageBucket: '<your-storage-bucket>'
+var config = {
+    apiKey: "AIzaSyBfWBQYoNg1AV-I1KrKc4jWPwgSxcw5K7o",
+    authDomain: "js-development-test-98a42.firebaseapp.com",
+    databaseURL: "https://js-development-test-98a42.firebaseio.com",
+    storageBucket: "js-development-test-98a42.appspot.com",
+    messagingSenderId: "791958612219"
   };
   firebase.initializeApp(config);
+  // firebase.initializeApp(config);
   
 // connect to your Firebase application using your reference URL
 var messageAppReference = firebase.database()
@@ -34,6 +36,7 @@ $(document).ready(function () {
     })
 
   })
+
 
   // // on initialization of app (when document is ready) get fan messages
   messageClass.getFanMessages();
@@ -112,7 +115,7 @@ var messageClass = (function () {
 
   function updateMessage(id, votes) {
     // find message whose objectId is equal to the id we're searching with
-    var messageReference = database.ref('messages/' + id)
+    var messageReference = firebase.database().ref('messages/' + id)
 
     // update votes property
     messageReference.update({
@@ -122,7 +125,7 @@ var messageClass = (function () {
 
   function deleteMessage(id) {
     // find message whose objectId is equal to the id we're searching with
-    var messageReference = database.ref('messages/' + id)
+    var messageReference = firebase.database().ref('messages/' + id)
 
     messageReference.remove()
   }

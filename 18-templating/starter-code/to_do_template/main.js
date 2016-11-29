@@ -54,7 +54,7 @@
     MyApp.init = function(){
 
       // Create initial list of items
-      this.populateList($thingList);
+      this.populateList();
       // Set submit event
       this.submitEvent();
       // Set complete event

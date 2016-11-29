@@ -32,6 +32,11 @@
 
 ### Resources
 
+- Handelbars
+	- https://www.sitepoint.com/a-beginners-guide-to-handlebars/
+	- http://tryhandlebarsjs.com/
+	- http://handlebarsjs.com/
+	
 - MVVM
 	- http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/
 

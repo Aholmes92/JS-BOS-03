@@ -38,6 +38,7 @@ Handlebars has a 4 step process to implementing templates in our applications:
   3. Pass the object to compile to Handlebars
   4. Add the new compiled element to DOM
 
+--
 
 1. We create our element surrounded in script tags with a reference id and a type of handlebars template. We surround the content that's to be replaced by double curly brackets.
 
@@ -48,6 +49,8 @@ Handlebars has a 4 step process to implementing templates in our applications:
     </script>
   ```
 
+--
+
 2. We can then use jQuery to reference the newly created template and pass that reference to Handlebars.
 
   ```js
@@ -55,7 +58,11 @@ Handlebars has a 4 step process to implementing templates in our applications:
     var template = Handlebars.compile(source);
   ```
 
+--
+
 3. We can then pass our data object to the newly created template.
+
+--
 
 4. And add it to the DOM via jQuery.
 
@@ -70,6 +77,8 @@ Handlebars has a 4 step process to implementing templates in our applications:
 
     // or you could have done $('body').append(template(helloStatement));
   ```
+
+--
 
 This routine allows us to organize our code by DOM and event logic (usually taken care of by jQuery in our case) and by model logic (currently just JS models). This will help interacting with data sets much cleaner and more manageable.
 

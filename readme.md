@@ -40,9 +40,10 @@
 | Day 5 | [Functions and Scope](5-functions-and-scope/readme.md) || Day 15 | [Prototypal Inheritance](15-prototypal-inheritance/readme.md)|
 | Day 6 | **Project 1 Lab** || Day 16 | [Intro to Crud and Firebase](16-crud-firebase/readme.md)|
 | Day 7 | [Objects and JSON](7-objects-and-json/readme.md) hw || Day 17 | Deploying Your App |
-| Day 8 | [Javascript and the Dom](8-the-dom/readme.md)  || Day 18 |  Instructor Choice|
+| Day 8 | [Javascript and the Dom](8-the-dom/readme.md)  || Day 18 | [Templating](18-templating/readme.md) |
 | Day 9 | [jQuery](9-jquery/readme.md) || Day 19 | **Final Project Lab**|
-| Day 10 | [AJAX and APIs](10-ajax-and-apis/readme.md) hw || Day 20| **Final Project**|
+| Day 10 | [AJAX and APIs](10-ajax-and-apis/readme.md) hw || Day 20| **Final Project Lab**|
+|   | || Day 21| **Presentations**|
 
 ## Graduation Requirements
 In order to successfully complete JSD, students must:

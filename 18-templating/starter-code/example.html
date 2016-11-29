@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" href="to_do_template/style.css">
+</head>
+<body>
+
+  <script id="hello-world-template" type="text/x-handlebars-template">
+    <h1>{{helloTitle}}</h1>
+    <p>{{helloContent}}</p>
+  </script>
+
+
+  <script src="to_do_template/handlebars-v4.0.5.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script  type="text/javascript" charset="utf-8" async defer>
+
+    // Create object data to get passed to template
+    var helloStatement = { helloTitle: "Hello world", helloContent: "GA JS class is just awesome"};
+
+    // Use jQuery to get HTML template
+    var source = $('#hello-world-template').html();
+
+    // Use Handlbars to compile the HTML to an interactive template
+    var template = Handlebars.compile(source);
+
+    // Pass in the object of data to the interactive template
+    var compiledTemplate = template(helloStatement);
+
+    // Add the newly compiled template to the screen
+    $('body').append(compiledTemplate);
+
+
+  </script>
+
+</body>
+</html>

@@ -43,7 +43,7 @@
 | Day 8 | [Javascript and the Dom](8-the-dom/readme.md)  || Day 18 | [Templating](18-templating/readme.md) |
 | Day 9 | [jQuery](9-jquery/readme.md) || Day 19 | **Final Project Lab**|
 | Day 10 | [AJAX and APIs](10-ajax-and-apis/readme.md) hw || Day 20| **Final Project Lab**|
-|   | || Day 21| **Presentations**|
+|   | || Day 21| [Presentations](21-presentations/readme.md)|
 
 ## Graduation Requirements
 In order to successfully complete JSD, students must:
